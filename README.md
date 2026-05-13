@@ -7,7 +7,7 @@ A beginner-friendly interactive course that runs right inside Codex. Open this f
 This course is focused on **Codex in the Codex app**. It starts from the basics and moves into practical workflows that help learners use Codex with real confidence.
 
 - **Start Here:** what Codex is, why local folders matter, and your first safe task
-- **Day to Day Use:** how to ask Codex to explain, plan, act, and revise work
+- **Day to Day Use:** how to ask Codex to explain, inspect, plan, act, review, and revise work
 - **Skills:** what skills are, how to inspect them, and how to build one
 - **Workflow Skills:** how to turn one of your own use cases into a custom skill
 - **Prototyping:** how to start from a guided prototype and then build your own
@@ -32,7 +32,7 @@ This course does **not** teach how to use ChatGPT in the chat interface. That is
 |--------|-------|---------|
 | [0. Welcome](curriculum/modules/module-00-welcome/welcome.md) | Course setup, agreements, guardrails, first step | Welcome |
 | [1. Start Here in Codex](curriculum/modules/module-01-start-here/MODULE.md) | What Codex is, context, folders, first task | 4 |
-| [2. Working With Codex Day to Day](curriculum/modules/module-02-working-with-codex/MODULE.md) | Explain, plan, edit, review, and create your own file | 5 |
+| [2. Working With Codex Day to Day](curriculum/modules/module-02-working-with-codex/MODULE.md) | Explain, plan, inspect, edit, review, and create your own file | 6 |
 | [3. Skills, Explained and Built](curriculum/modules/module-03-skills/MODULE.md) | Understanding skills, building one, and generating use cases | 5 |
 | [4. Build a Workflow Skill](curriculum/modules/module-04-automations-and-use-cases/MODULE.md) | Turn a real use case into a custom skill | 4 |
 | [5. Prototype a Useful App in Codex](curriculum/modules/module-05-prototype-a-useful-app/MODULE.md) | Guided prototype first, then your own build | 7 |
@@ -62,6 +62,7 @@ codex-course/
 ## Helpful Support Files
 
 - [Cheat Sheet](reference/cheat-sheet.md)
+- [Codex Best Practices](reference/codex-best-practices.md)
 - [Glossary](reference/glossary.md)
 - [Troubleshooting](reference/troubleshooting.md)
 - [How To Navigate This Course](reference/how-to-use-this-course.md)

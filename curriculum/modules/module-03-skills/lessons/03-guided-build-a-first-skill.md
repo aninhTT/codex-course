@@ -12,6 +12,8 @@ prerequisites: "3.02"
 
 The first skill should solve one narrow, useful problem. In this course, the learner builds a simple recap helper so the exercise stays focused and grounded in the practice files.
 
+Best practice for skills: keep the first version narrow enough that you can explain it, inspect it, and test it with one realistic example. A beginner skill should feel like a helpful checklist Codex can reuse, not a giant instruction manual.
+
 Guided skill:
 
 - Name: `weekly-recap-helper`
@@ -23,7 +25,7 @@ Guided skill:
 Try this in Codex:
 
 ```text
-Help me create a beginner Codex skill named `weekly-recap-helper`. It should turn rough weekly notes into a cleaner recap using the template in this workspace. Keep the skill lean, practical, and easy for a beginner to understand. Use the local skill-creation workflow rather than inventing a random format.
+Help me create a beginner Codex skill named `weekly-recap-helper`. It should turn rough weekly notes into a cleaner recap using the template in this workspace. Keep the skill lean, practical, and easy for a beginner to understand. Use the local skill-creation workflow rather than inventing a random format. After creating it, summarize what files were created or changed and how I should inspect the skill.
 ```
 
 **Success criteria:** The learner ends the lesson with a simple, focused skill draft that clearly solves one problem and is easy to inspect.

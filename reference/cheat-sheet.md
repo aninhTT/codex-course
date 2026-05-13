@@ -24,6 +24,16 @@
 | Build something reusable | Skills and local prototypes |
 | Get unstuck | Tutoring and troubleshooting |
 
+## Best-Practice Loop
+
+Use this loop when you are not sure how to work with Codex:
+
+1. **Ask** for one clear thing.
+2. **Inspect** what Codex can see or what it found.
+3. **Plan** before bigger changes.
+4. **Act** when you are ready for a real edit or new file.
+5. **Review** what changed before you trust it.
+
 ## Helpful Prompts
 
 - "Show me the full course outline."
@@ -58,6 +68,7 @@ Avoid slash commands in this course. In Codex, slash-prefixed inputs may be inte
 ## Keep Nearby
 
 - `reference/glossary.md`
+- `reference/codex-best-practices.md`
 - `reference/troubleshooting.md`
 - `learner-assets/artifact-tracker.md`
 - `learner-assets/use-case-shortlist.md`

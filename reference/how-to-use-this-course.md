@@ -6,6 +6,7 @@
 2. Open `learner-assets/artifact-tracker.md`.
 3. Work through module landing pages in order.
 4. Use `practice-workspace/` for guided course files and `playground/` for your own builds.
+5. Use `reference/codex-best-practices.md` when you want a quick reminder of how to ask Codex for help.
 
 ## How Modules Work
 

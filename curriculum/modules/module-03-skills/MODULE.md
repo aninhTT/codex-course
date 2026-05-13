@@ -15,6 +15,7 @@ This module is where things start getting especially fun. The learner moves from
 - how to inspect an existing skill without getting overwhelmed
 - how to build a simple first skill
 - how to personalize a skill for real work
+- how to keep a beginner skill narrow enough to inspect and test
 - how to use a stronger example skill to generate ideas for what to build next
 
 ## Lessons

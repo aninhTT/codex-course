@@ -16,6 +16,15 @@ Opening the whole course workspace gives Codex broad context: the modules, the p
 
 This matters because good folder choice makes Codex both **more useful** and **safer**.
 
+Here is the beginner best practice:
+
+- Open a broader folder when you want Codex to understand a full course, project, or collection of related files.
+- Open a smaller folder when you want Codex to focus on one project and avoid unrelated files.
+- If you are unsure, tell Codex what you are trying to do and ask whether the current folder is the right context.
+- When you ask for help, name the folder or file Codex should use whenever you can.
+
+The goal is not to pick the perfect folder every time. The goal is to notice that folder choice is part of giving Codex good context.
+
 If you want a visual walkthrough, these optional Loom videos can help:
 
 - Video 1: [How local coding tools use files and folders](https://www.loom.com/share/a484c698046f467bb9e2906bf4f5a8cf)
@@ -30,6 +39,7 @@ Look at this course workspace and do three things:
 1. List the main folders you can see and what each one seems to be for.
 2. Explain how coding tools like Codex work with files and folders that live locally on my computer.
 3. Give me one simple example of why I might open this whole course folder in Codex today, and one simple example of when I might open just a smaller project folder on another day.
+4. Give me one beginner-friendly rule of thumb for choosing the right folder before I ask Codex to edit anything.
 ```
 
 **Success criteria:** Codex correctly identifies the main folders, explains that local coding tools operate on files and folders on the learner's computer, and gives a simple, beginner-friendly explanation of when broad versus smaller folder context is useful.

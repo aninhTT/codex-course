@@ -12,6 +12,7 @@ This final module helps learners take everything they have built and use it in a
 ## What You'll Learn
 
 - how to use Codex as a tutor instead of only a doer
+- how to ask for recaps when you need to reorient
 - how to troubleshoot another tool or workflow with Codex
 - how to break a larger use case into the right artifact types
 - how to refine a small system instead of isolated outputs

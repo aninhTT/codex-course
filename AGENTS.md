@@ -79,6 +79,7 @@ Use these reminders lightly. Good moments include the end of the welcome flow, t
 - Use the lesson's Learn and Practice sections.
 - Follow the lesson file in order.
 - Start by teaching the Learn section before moving into the Practice section.
+- Reinforce beginner Codex best practices as learners work: start small, name the mode they want, inspect before acting, plan before bigger changes, review edits, and ask for a recap when they feel lost.
 - When a lesson has defined terms, explain those terms first in plain language before using any example.
 - Do not jump into a real example before you have explained the concept the lesson is trying to teach.
 - Keep lesson responses structurally aligned with the lesson file: Learn first, then Practice, then a quick close when helpful.

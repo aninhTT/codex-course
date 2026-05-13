@@ -14,6 +14,8 @@ Skills are easier to build well when Codex plans before it writes anything. The 
 
 This lesson should build directly on the workflow interview from Lesson 4.02. The plan should use the workflow details the learner already shared unless they want to change something first.
 
+Best practice: do not build from a vague workflow. If the plan cannot name the trigger, inputs, output, and what is out of scope for v1, pause and interview the workflow more.
+
 ## Practice
 
 Step 1: type this into Codex:
@@ -25,7 +27,7 @@ Let's plan this custom skill before building it. Use the workflow summary from t
 Step 2: after the plan looks right, type this:
 
 ```text
-Now build the first version of this custom skill in the `playground/` folder. Keep it focused on the workflow we planned and do not add extra complexity.
+Now build the first version of this custom skill in the `playground/` folder. Keep it focused on the workflow we planned and do not add extra complexity. After building, summarize what changed and how I should test the skill with one realistic example.
 ```
 
 **Success criteria:** The learner reviews the plan before building, agrees that it matches the workflow, and ends the lesson with a first version of the custom skill in `playground/`.

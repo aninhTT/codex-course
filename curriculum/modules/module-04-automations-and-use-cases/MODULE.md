@@ -13,6 +13,7 @@ This module is where a learner takes a real use case and turns it into something
 
 - how to choose a workflow that is good for a custom skill
 - how to describe that workflow clearly
+- how to define the trigger, inputs, output, and v1 boundaries before building
 - how to use plan mode to think before building
 - how to test and refine a skill after the first version
 

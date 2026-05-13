@@ -23,6 +23,13 @@
 - Open `learner-assets/artifact-tracker.md`.
 - Open the current module `MODULE.md`.
 - Ask Codex: "Based on the artifact tracker, what should I do next?"
+- Ask Codex: "Give me a quick recap of where I am and the next sensible step."
+
+## I am not sure how to ask Codex
+
+- Use the beginner loop in `reference/codex-best-practices.md`: Ask, Inspect, Plan, Act, Review.
+- Start with one small goal and name the file or folder Codex should use.
+- If the task feels bigger than one step, ask Codex to plan first.
 
 ## The GitHub skill lesson feels advanced
 

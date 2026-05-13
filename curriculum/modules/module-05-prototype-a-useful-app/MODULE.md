@@ -15,6 +15,7 @@ This module is a chance to make something that feels a little more alive. Codex 
 - how to make a first meaningful product change
 - how to personalize a starter prototype for a real workflow
 - how to define and plan your own small prototype
+- how to preview and review a prototype before expanding it
 - how to build and iterate on that prototype without overcomplicating it
 
 ## Lessons

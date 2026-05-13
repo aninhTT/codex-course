@@ -18,6 +18,7 @@ By the end of the course, the learner should be able to:
 - explain what Codex is and when to use it
 - understand why workspace and folder context matter
 - use Codex to explain, plan, and revise work
+- use beginner Codex best practices to ask, inspect, plan, act, and review
 - build one skill
 - build one custom workflow skill
 - build one local prototype dashboard or app
@@ -26,6 +27,7 @@ By the end of the course, the learner should be able to:
 ## Shared Support Files
 
 - `reference/cheat-sheet.md`
+- `reference/codex-best-practices.md`
 - `reference/glossary.md`
 - `reference/troubleshooting.md`
 - `reference/how-to-use-this-course.md`

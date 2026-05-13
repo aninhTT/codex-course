@@ -1,18 +1,20 @@
 ---
 module: 2
-lesson: 4
+lesson: 5
 title: "Create Your Own Notes File"
 difficulty: beginner
-prerequisites: "2.03"
+prerequisites: "2.04"
 ---
 
-# Lesson 2.04: Create Your Own Notes File
+# Lesson 2.05: Create Your Own Notes File
 
 ## Learn
 
 One of the most useful beginner moments in a coding tool is when it creates a real file that you can go find on your computer. This makes Codex feel less abstract. It is not just chatting. It is working with files in a local folder.
 
 This lesson is also meant to build a habit: after Codex creates something for you, go find it, open it, and read it yourself. That is how you stay oriented and build trust in what the tool is doing.
+
+This is review practice too. Codex can create the file, but the learner should still inspect the result and make sure it feels useful.
 
 ## Practice
 

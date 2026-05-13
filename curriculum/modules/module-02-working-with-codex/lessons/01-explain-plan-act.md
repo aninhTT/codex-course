@@ -16,6 +16,8 @@ Beginners often ask Codex to do everything at once. That makes it harder to unde
 - **Plan** when you want structure before action
 - **Act** when you are ready for a real change
 
+This is the first best practice: tell Codex which mode you want. If you are learning, it is completely normal to start with explain, move to plan, and only then ask Codex to act.
+
 ## Practice
 
 Try this in Codex:

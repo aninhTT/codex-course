@@ -30,7 +30,7 @@ Here is the course arc at a glance:
 
 - **Module 0: Welcome** — get oriented, understand how the course works, and learn how to move through it.
 - **Module 1: Start Here in Codex** — learn what Codex is, how it differs from chat tools, and why local folders matter.
-- **Module 2: Working With Codex Day to Day** — practice asking Codex to explain, plan, act, and create files you can go find yourself.
+- **Module 2: Working With Codex Day to Day** — practice asking Codex to explain, inspect, plan, act, review, and create files you can go find yourself.
 - **Module 3: Skills** — learn what skills are, inspect one, and start thinking in reusable workflows instead of one-off prompts.
 - **Module 4: Build a Workflow Skill** — turn one of your own workflows into a custom skill by interviewing it, planning it, and building a first version.
 - **Module 5: Prototype a Useful App** — start from a guided prototype, then define and build a simple app or dashboard based on one of your own use cases.
