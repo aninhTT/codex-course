@@ -19,9 +19,10 @@ Use this page when you are not sure how to ask Codex for help or when Codex star
 - Ask Codex what it is about to change before letting it edit.
 - Review changes before trusting them.
 - Ask Codex to summarize what changed after edits.
-- Keep one goal per prompt while you are learning.
+- Keep one goal per normal prompt while you are learning. This means one clear intention at a time, not the advanced Codex feature called Goal mode.
 - Use Codex as a tutor when confused, not only as a doer.
 - Stop and ask for a recap when you lose your place.
+- Use Goal mode only for longer work with a clear finish line, evidence source, and boundaries.
 
 ## Helpful Prompts
 
@@ -52,3 +53,15 @@ Slow down and ask for a plan first when:
 - you feel like you are just clicking along without understanding
 
 Slowing down is not a failure. It is one of the main ways experienced Codex users stay in control.
+
+## Goal Mode Check
+
+Goal mode is useful when you need Codex to keep working toward a defined outcome across multiple steps. Before using it, make sure you can answer:
+
+- What should be true when this is done?
+- What evidence can Codex inspect to prove it?
+- What files, tools, or sources may Codex use?
+- What should Codex preserve or avoid?
+- What should Codex do if the evidence is missing?
+
+If those answers are fuzzy, ask Codex to help draft the Goal first.

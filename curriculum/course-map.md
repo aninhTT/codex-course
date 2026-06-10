@@ -22,6 +22,7 @@ By the end of the course, the learner should be able to:
 - build one skill
 - build one custom workflow skill
 - build one local prototype dashboard or app
+- explain when Goal mode is useful and draft a bounded, evidence-based Goal
 - refine those artifacts for a real workflow
 
 ## Shared Support Files
