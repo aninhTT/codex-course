@@ -11,7 +11,7 @@ This course is focused on **Codex in the Codex app**. It starts from the basics 
 - **Skills:** what skills are, how to inspect them, and how to build one
 - **Workflow Skills:** how to turn one of your own use cases into a custom skill
 - **Prototyping:** how to start from a guided prototype and then build your own
-- **Applied Workflows:** how to use Codex as a tutor, troubleshooter, and workflow partner
+- **Applied Workflows:** how to use Codex as a tutor, troubleshooter, Goal-mode partner, and workflow refinement helper
 - **Closing:** where to go next after the course
 
 ## What This Course Does Not Cover
@@ -36,7 +36,7 @@ This course does **not** teach how to use ChatGPT in the chat interface. That is
 | [3. Skills, Explained and Built](curriculum/modules/module-03-skills/MODULE.md) | Understanding skills, building one, and generating use cases | 5 |
 | [4. Build a Workflow Skill](curriculum/modules/module-04-automations-and-use-cases/MODULE.md) | Turn a real use case into a custom skill | 4 |
 | [5. Prototype a Useful App in Codex](curriculum/modules/module-05-prototype-a-useful-app/MODULE.md) | Guided prototype first, then your own build | 7 |
-| [6. Applied Codex Workflows](curriculum/modules/module-06-applied-workflows/MODULE.md) | Tutoring, troubleshooting, and refinement | 4 |
+| [6. Applied Codex Workflows](curriculum/modules/module-06-applied-workflows/MODULE.md) | Tutoring, troubleshooting, Goal mode, and refinement | 6 |
 | [7. Congratulations and Next Steps](curriculum/modules/module-07-closing/closing.md) | Wrap-up and other learning resources | Closing |
 
 ## Shared Folders
@@ -74,3 +74,4 @@ codex-course/
 - one custom workflow skill
 - one local prototype dashboard or app
 - one shortlist of Codex use cases for your own work
+- one draft Goal for a longer, evidence-based workflow

@@ -20,6 +20,10 @@ A reusable set of instructions and optional resources that helps Codex perform a
 
 A recurring Codex task that runs on a schedule.
 
+## Goal Mode
+
+A Codex feature for longer tasks where Codex keeps a persistent objective attached to the current thread. A good Goal defines the desired outcome, the evidence Codex should use to verify completion, the boundaries for the work, and what should happen if Codex gets blocked.
+
 ## Artifact
 
 Something the learner creates during the course, such as a skill or a prototype app.
