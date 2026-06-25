@@ -14,8 +14,9 @@ Use this page when you are not sure how to ask Codex for help or when Codex star
 
 - Start with the smallest useful task.
 - Tell Codex whether you want explanation, planning, or action.
-- Use the right folder: broad enough for context, narrow enough for safety.
+- Use the right project or folder: broad enough for context, narrow enough for safety.
 - Name the files or folders Codex should use when possible.
+- Ask whether the current project is right before building a skill, prototype, or Goal.
 - Ask Codex what it is about to change before letting it edit.
 - Review changes before trusting them.
 - Ask Codex to summarize what changed after edits.
@@ -42,12 +43,21 @@ Make the smallest useful change, then summarize what changed so I can review it.
 I am lost. Summarize where I am in the course and tell me the next sensible step.
 ```
 
+```text
+Should this task happen in the current course folder, `playground/`, a separate Codex project, or no project?
+```
+
+```text
+Before I switch projects, summarize what we did, what changed, and where I should return.
+```
+
 ## When To Slow Down
 
 Slow down and ask for a plan first when:
 
 - the task touches more than one file
 - the output will be used by other people
+- you are about to switch projects
 - you do not understand what Codex is about to change
 - Codex gives you a very broad answer
 - you feel like you are just clicking along without understanding

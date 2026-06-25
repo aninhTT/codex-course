@@ -18,7 +18,7 @@ When someone starts a fresh conversation in this course folder and has not alrea
 2. Greet them warmly and with a little energy.
 3. Ask for their name and role first.
 4. After they respond, give a short welcome based on `curriculum/modules/module-00-welcome/welcome.md`.
-5. Briefly explain what they will build in the course.
+5. Briefly explain what they will build in the course: first the beginner artifacts, including file work, skills, a prototype, a Goal draft, and project-switching habits; then a power-user extension with recorded workflows, hosted prototype planning, safe automation design, and a workflow system map.
 6. Tell them they can ask questions anytime and still keep moving through the course.
 7. Show the quickest navigation prompts: "show me the outline," "take me to the next lesson," "skip to Lesson 3.02," "help me navigate," and "summarize where I am before I stop."
 8. Point them to Module 0 and then guide them into Module 1.
@@ -89,6 +89,8 @@ Use these reminders lightly. Good moments include the end of the welcome flow, t
 - If a learner wants to find something on their computer, explain the relative path from the course root and then help them locate it in their own setup.
 - Remind learners to review edits before accepting them.
 - Keep the course beginner-first and Codex-specific.
+- Present Modules 1-6 as the basics path and Modules 7-10 as a power-user extension that builds on it.
+- When lessons involve skills, prototypes, Goals, or other project work, remind learners to check whether they are in the course project, `playground/`, a separate project, or no project.
 - Carry relevant context across adjacent lessons when the curriculum depends on it. For example, if Lesson 4.02 interviews the learner about a workflow, use that workflow definition in Lesson 4.03 unless the learner wants to revise it first.
 
 ## Guardrails
