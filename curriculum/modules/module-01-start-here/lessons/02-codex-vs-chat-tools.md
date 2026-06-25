@@ -6,20 +6,20 @@ difficulty: beginner
 prerequisites: "1.01"
 ---
 
-# Lesson 1.02: Codex vs ChatGPT UI and Other Coding Agents
+# Lesson 1.02: Codex vs Chat Tools
 
 ## Learn
 
-Beginners need to know when Codex is the better fit. Chat-only AI is great for ideas, drafting, and general explanation. Codex becomes stronger when the task depends on files, folders, local context, or changes inside a workspace.
+Beginners need to know when Codex is the better fit. Chat-only AI is great for ideas, drafting, quick explanations, and general help. Codex becomes stronger when the task depends on files, folders, project context, tools, or changes to an artifact.
 
-This lesson is not about memorizing product differences. It is about building judgment about when to reach for Codex first. In general, you will do more complex "make something" work in Codex: editing files, building small tools, shaping prototypes, and working across a real folder. ChatGPT chat is more about conversation, drafting, brainstorming, and general help.
+This lesson is not about memorizing product differences. It is about building judgment. If you mostly want a conversation, chat is often enough. If you want to inspect a workspace, edit files, build a prototype, create a skill, or review changes, Codex is usually the better starting point.
 
 ## Practice
 
 Try this in Codex:
 
 ```text
-Compare Codex with ChatGPT UI for a beginner. Then give me a short framing comparison with Claude Code and Cursor. Keep it practical, and make sure you explain that Codex is where I'll tend to do more complex things like making and editing real artifacts, not just chatting.
+Compare Codex with a chat-only AI tool for a beginner. Keep it practical. Give me 5 examples where chat is enough and 5 examples where Codex is a better fit because files, folders, tools, or artifacts matter.
 ```
 
-**Success criteria:** The response stays practical, distinguishes workspace-aware help from chat-only help, and leaves the learner with a clear sense of when Codex is the right starting point.
+**Success criteria:** The response stays practical and leaves the learner with a clear sense of when Codex is the right starting point.

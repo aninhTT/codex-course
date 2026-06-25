@@ -12,56 +12,79 @@ Use this file as the learner's lightweight checklist. It is here to help the lea
 ## Module 1
 
 - [ ] I can explain what Codex is in one sentence.
-- [ ] I can explain why the folder I open matters.
-- [ ] I know one rule of thumb for choosing a broad folder versus a smaller folder.
-- [ ] I understand that this course includes sample files in the practice workspace.
-- [ ] I completed my first safe task.
+- [ ] I can explain when Codex is a better fit than chat-only help.
+- [ ] I completed a first read-only task using a practice file.
 
 ## Module 2
 
-- [ ] I asked Codex to explain something in my workspace.
-- [ ] I practiced the Ask, Inspect, Plan, Act, Review loop.
-- [ ] I asked Codex to plan work before acting.
+- [ ] I can explain that a Codex project is basically a local folder with context.
+- [ ] I know when to use the course workspace, `practice-workspace/`, `playground/`, a separate project, or no project.
+- [ ] I asked Codex to inspect before editing.
 - [ ] I asked Codex to make a small change and reviewed it.
 - [ ] I created my own notes file in the practice workspace.
-- [ ] I identified a few beginner productivity tasks Codex could help with.
 
 ## Module 3
 
-- [ ] I can explain what a skill is.
-- [ ] I read an existing skill and understood its parts.
+- [ ] I can explain the difference between a prompt, a repeatable workflow, and a skill.
+- [ ] I know when skill work may need a separate project.
+- [ ] I inspected a skill before building one.
 - [ ] I built the guided skill.
-- [ ] I kept my first skill narrow enough to inspect and test.
-- [ ] I personalized my skill for my own work.
-- [ ] I copied the `use-case` skill and generated ideas for a custom skill and a prototype.
+- [ ] I chose one workflow to turn into a custom skill.
+- [ ] I had Codex interview me to capture the workflow clearly.
+- [ ] I built, tested, and refined a custom workflow skill.
 
 ## Module 4
 
-- [ ] I chose one workflow to turn into a custom skill.
-- [ ] I had Codex interview me to capture the workflow clearly.
-- [ ] I planned and built the first version of that skill in the playground.
-- [ ] I defined the skill's trigger, inputs, output, and first-version limits before building.
-- [ ] I tested the skill and refined it.
+- [ ] I can explain what a prototype is for.
+- [ ] I toured the starter app and understood its basic files.
+- [ ] I made one guided prototype change.
+- [ ] I decided whether my prototype belongs in the course workspace, `playground/`, or a separate project.
+- [ ] I planned a 2 to 3 feature version before building it.
+- [ ] I built, previewed, reviewed, and summarized my prototype work.
 
 ## Module 5
 
-- [ ] I opened the starter app in Codex.
-- [ ] I changed the dashboard structure or content.
-- [ ] I personalized the starter prototype for one real workflow.
-- [ ] I defined my own prototype idea.
-- [ ] I planned a 2 to 3 feature version before building it.
-- [ ] I built and iterated on my own prototype.
-- [ ] I previewed and reviewed the prototype before expanding it.
+- [ ] I can explain when a normal prompt is enough and when a Goal is useful.
+- [ ] I can name the parts of a strong Goal.
+- [ ] I connected a Goal candidate to the right project or folder context.
+- [ ] I drafted one bounded, evidence-backed Goal.
 
 ## Module 6
 
-- [ ] I used Codex as a tutor when I was stuck.
-- [ ] I asked Codex for a recap when I needed to reorient.
-- [ ] I used Codex to troubleshoot another tool or workflow.
-- [ ] I improved one of my skills or my app based on a real use case.
-- [ ] I finished the course with three working artifacts.
+- [ ] I mapped my course, skill, prototype, and future real-work projects.
+- [ ] I practiced summarizing before switching projects.
+- [ ] I practiced resuming the course after working elsewhere.
+- [ ] I reviewed which foundation artifacts are ready for Modules 7-10.
 
 ## Module 7
+
+- [ ] I chose a workflow that is a good candidate for recording.
+- [ ] I prepared a clean recording plan with no secrets or unrelated cleanup.
+- [ ] I refined a recorded skill or drafted a recording-level workflow walkthrough.
+- [ ] I named variable inputs, hidden preferences, success checks, and stop conditions.
+
+## Module 8
+
+- [ ] I reviewed my local prototype as a possible hosted site.
+- [ ] I created a Sites-readiness checklist.
+- [ ] I checked access, secrets, environment values, and storage needs.
+- [ ] I can explain local preview, saved version, and deployment.
+
+## Module 9
+
+- [ ] I can compare normal prompt loops, review loops, Goal loops, thread automations, and standalone automations.
+- [ ] I chose the safest recurring pattern for one workflow.
+- [ ] I drafted a durable automation prompt.
+- [ ] I created an automation design card.
+- [ ] I tested the automation idea manually before scheduling anything.
+
+## Module 10
+
+- [ ] I created a workflow system map.
+- [ ] I reviewed the system for risks, missing evidence, privacy concerns, and overbroad automation.
+- [ ] I chose a realistic operating rhythm for continuing after the course.
+
+## Module 11
 
 - [ ] I completed the course.
 - [ ] I reviewed next-step learning resources.
@@ -69,5 +92,5 @@ Use this file as the learner's lightweight checklist. It is here to help the lea
 ## Final Reflection
 
 - What task do I want Codex to save me time on every week?
-- Which artifact will I keep improving first: starter skill, custom skill, or app?
+- Which artifact will I keep improving first: notes file, guided skill, custom skill, prototype, Goal, recorded workflow, Sites plan, or automation design?
 - What kind of work still feels confusing enough that I want Codex to tutor me through it?

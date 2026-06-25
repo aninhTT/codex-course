@@ -10,18 +10,18 @@ prerequisites: "None"
 
 ## Learn
 
-Codex is a coding tool, but that does not mean it is only useful for technical people. It can still help with plenty of non-technical work: organizing notes, cleaning up drafts, comparing files, shaping workflows, and building simple tools that support your day-to-day work.
+Codex is an AI assistant that can help you work with real files and projects. It can chat with you, inspect files, make edits, build artifacts, use tools, and explain what it is doing along the way.
 
-The big difference from a normal chat interface is that Codex can work more locally. Chat tools often live mostly in the cloud and respond to what you type into a conversation. Codex can act on the folder you open, inspect local files, and use more tools, including the web when needed. That means it can explain what is in a workspace, suggest a plan, and help make changes based on real files instead of only what you paste into a message.
+Codex is a coding tool, but that does not mean it is only useful for technical people. It can help with organizing notes, cleaning up drafts, comparing files, shaping workflows, building simple tools, and turning repeated work into reusable helpers.
 
-For a beginner, the most useful mental model is simple: **Codex is AI that can work with the folder you open.**
+For a beginner, the most useful mental model is simple: **Codex is AI that can work with the files and context you give it.**
 
 ## Practice
 
 Try this in Codex:
 
 ```text
-I'm new to Codex. Using this course workspace only, explain what Codex is, how it differs from a normal AI chat, and what kinds of technical and non-technical tasks it can help with here. Keep it beginner-friendly and practical, and explain how working with a local folder changes what Codex can do.
+I'm new to Codex. Using this course workspace only, explain what Codex is and what kinds of technical and non-technical tasks it can help with here. Keep it beginner-friendly and practical. Include examples of chatting, inspecting files, editing files, building artifacts, and using tools.
 ```
 
-**Success criteria:** Codex explains the difference between chat-only help and workspace-aware help, and uses examples from this course workspace instead of staying abstract.
+**Success criteria:** Codex explains what it can do in plain language and uses examples from this course workspace instead of staying abstract.

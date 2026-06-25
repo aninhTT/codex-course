@@ -19,9 +19,13 @@
 | Need | What Codex Helps With |
 |------|------------------------|
 | Understand a file or folder | Summaries, explanations, walkthroughs |
-| Plan work before acting | Breaking tasks into steps |
+| Choose project context | Deciding between course workspace, `playground/`, another project, or no project |
+| Plan work before acting | Inspecting first and breaking tasks into steps |
 | Improve a document or workflow | Rewrites, structure, cleanup |
 | Build something reusable | Skills and local prototypes |
+| Capture a demonstrated workflow | Record & Replay or a recording-level walkthrough |
+| Share or review a prototype | Sites readiness, saved versions, and intentional deployments |
+| Repeat a safe workflow | Durable prompts, Goals, and automation design cards |
 | Get unstuck | Tutoring and troubleshooting |
 
 ## Best-Practice Loop
@@ -59,11 +63,21 @@ Avoid slash commands in this course. In Codex, slash-prefixed inputs may be inte
 
 **Workspace** — the folder Codex can currently inspect and work inside.
 
+**Project** — in this course, a Codex project means the folder/context Codex is working in. Projects are useful when Codex needs files, artifacts, or local context.
+
 **Skill** — a reusable set of instructions and resources that helps Codex do one kind of job consistently.
 
 **Automation** — a recurring Codex workflow that runs on a schedule.
 
 **Prototype** — a quick local app, dashboard, or site built to test a useful idea.
+
+**Record & Replay** — a Codex workflow for demonstrating a repetitive task on your computer and turning the pattern into a reusable skill.
+
+**Sites** — a Codex hosting workflow for creating, saving, deploying, and inspecting websites or web apps.
+
+**Automation Design Card** — a planning artifact that names a recurring workflow's trigger, cadence, prompt, evidence, stop condition, risks, and review plan before scheduling.
+
+**Workflow System Map** — a simple map showing which course artifact handles each part of a real workflow.
 
 ## Keep Nearby
 
