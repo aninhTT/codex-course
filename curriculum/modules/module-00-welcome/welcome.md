@@ -11,22 +11,26 @@ This folder you just opened is not just a packet of reading materials. It is the
 
 This course does **not** cover how to use ChatGPT in the chat interface. That is taught elsewhere, including the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
 
+The simplest mental model: ChatGPT is often something you chat with. Codex is an agentic workspace. It can chat, but it can also inspect files, use connected tools and apps, make changes when you approve them, build artifacts, and help you turn repeated work into reusable systems.
+
 ## What You'll Walk Away With
 
 By the end of this course, you will:
 
 - understand what Codex is good at
+- customize settings so Codex talks to you in a useful way
 - understand Codex projects as local folders with context
-- know when to use the course project, `playground/`, a separate project, or no project
+- understand what is inside this course folder and where to inspect it
 - make one small safe file change
-- build one skill
+- inspect and run one example skill
+- build one first practical skill
 - build one custom workflow skill
 - build one local prototype dashboard or app
-- draft one bounded Goal
-- practice switching between projects without losing your place
+- draft one bounded Goal for longer evidence-based work
+- assemble one Codex Workflow Starter Kit for a professional pain point
 - prepare one recorded workflow or recording plan
-- create one hosted-prototype readiness plan
-- design one safe recurring workflow
+- deploy one Codex Site URL
+- schedule one safe recurring workflow
 - leave with a shortlist of Codex use cases for your own work
 
 You do not need to already feel technical to get value from this. The course is built to help non-technical learners get comfortable with a coding tool one step at a time.
@@ -36,15 +40,15 @@ You do not need to already feel technical to get value from this. The course is 
 Here is the course arc at a glance:
 
 - **Module 0: Welcome** — get oriented, understand how the course works, and learn how to move through it.
-- **Module 1: What Codex Is** — learn what Codex can do, when it differs from chat-only tools, and try a first read-only task.
+- **Module 1: What Codex Is and How To Set It Up** — tune settings, learn what Codex can do as an agent, compare it with chat-only tools, and try a first read-only task.
 - **Module 2: Projects, Folders, and First File Work** — learn how projects work as local folders, choose the right context, and make a first safe file edit.
-- **Module 3: Skills and Repeatable Workflow Automation** — turn repeated prompts into reusable skills, including one guided skill and one custom workflow skill.
-- **Module 4: Prototype a Useful App** — inspect a starter app, make a guided change, choose the right project, and build a small prototype.
-- **Module 5: Goals and Longer Codex Work** — learn when to use Goal mode and how to draft a bounded, evidence-backed Goal.
-- **Module 6: Basics Capstone: Work Across Projects** — practice switching between course, skill, prototype, and real-work projects without losing your place.
+- **Module 3: Skills as Repeatable Processes** — learn skills as reusable processes, run a real local use-case skill, and build practical skills from its output.
+- **Module 4: Prototype a Useful Workflow** — choose a pain-point prototype, tour the starter app, use Plan mode, and build a small prototype.
+- **Module 5: Goals and Longer Codex Work** — learn when longer work deserves a Goal and how to draft one with evidence, constraints, and blocked conditions.
+- **Module 6: Basics Capstone: Codex Workflow Starter Kit** — bring the basics together for one professional pain point.
 - **Module 7: Record a Workflow Into a Skill** — learn when showing Codex a workflow is better than describing it, and how to refine the resulting skill.
-- **Module 8: Sites and Hosted Prototypes** — learn the review and publishing layer for prototypes without treating deployment as automatic.
-- **Module 9: Loops, Automations, and Safe Recurrence** — design safe recurring workflows before scheduling anything.
+- **Module 8: Sites and Hosted Prototypes** — review, save, and intentionally deploy a Codex Site.
+- **Module 9: Loops, Automations, and Safe Recurrence** — design, test, and schedule one safe recurring loop.
 - **Module 10: Power-User Capstone** — map your skills, prototype, recording plan, and automation design into one practical workflow system.
 - **Module 11: Closing** — wrap up, celebrate what you built, and find the next learning resources to keep going.
 
@@ -77,9 +81,11 @@ These still apply while you use Codex:
 
 - Most lessons take about 5 to 10 minutes.
 - Each lesson has a short **Learn** section and one guided **Practice** section.
+- Lessons now end by naming what you made or decided, then previewing what is on deck.
 - The course is designed to be taken in order the first time.
 - Codex may read or edit files in this workspace during exercises.
 - The guided lesson work happens mainly in `practice-workspace/`.
+- Most course work stays inside this course folder. If you later build something real enough to deserve its own home, that can move into a separate local folder/project.
 - This course is about Codex specifically. For ChatGPT chat usage, use the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
 
 ## Ask Questions As You Go
@@ -94,6 +100,7 @@ That is not getting off track. That is using Codex well.
 - Reference docs: `reference/`
 - Guided build sandbox: `practice-workspace/`
 - Learner checklist: `learner-assets/artifact-tracker.md`
+- Visual and screenshot support: `curriculum/assets/`
 
 ## Moving Through the Course
 

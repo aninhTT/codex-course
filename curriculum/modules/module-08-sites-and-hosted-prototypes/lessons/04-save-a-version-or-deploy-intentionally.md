@@ -1,27 +1,35 @@
 ---
 module: 8
 lesson: 4
-title: "Save A Version Or Deploy Intentionally"
+title: "Save A Version And Deploy Intentionally"
 difficulty: intermediate
 prerequisites: "8.03"
 ---
 
-# Lesson 8.04: Save A Version Or Deploy Intentionally
+# Lesson 8.04: Save A Version And Deploy Intentionally
 
 ## Learn
 
 With Sites, a deployment URL is production. That does not mean it is scary; it means the learner should be deliberate.
 
-Use a saved version when you want a reviewable candidate. Use deployment only when the content, access, and audience are ready. If the learner is not sure, ask Codex to save or prepare a version without deploying.
+Use a saved version when you want a reviewable candidate. Use deployment only when the content, access, and audience are ready.
 
 The power-user habit is simple: separate "make it buildable" from "make it live."
+
+This follows the same rule as the rest of the course: review the artifact where people will actually use it before widening access.
+
+In this lesson, the practical outcome is a real Codex Sites URL. Keep it low-risk: use sample data, a safe audience, and no secrets.
+
+## Video Cue
+
+Watch this walkthrough: [Make a Codex Site](https://www.loom.com/share/1cee2c493d364e9fa291de56bab91374).
 
 ## Practice
 
 Try this in Codex:
 
 ```text
-Help me write the exact prompt I should use for Sites. I want to be clear whether I am asking for a local readiness review, a saved version without deployment, or an intentional deployment. Include the access audience and any blockers Codex should check first.
+Help me publish my course prototype as a Codex Site. First, do a final readiness check: source review, visible page review, data/privacy concerns, access audience, and blockers. If there are no blockers, save a reviewable version and then deploy it intentionally with a safe audience. Use sample data only. Return the Codex Sites URL and a short note about what I should review on the live page.
 ```
 
-**Success criteria:** The learner leaves with a precise Sites prompt and does not treat public deployment as the automatic next step.
+**Success criteria:** The learner leaves with a Codex Sites URL, knows what audience it was deployed for, and reviews the live page.

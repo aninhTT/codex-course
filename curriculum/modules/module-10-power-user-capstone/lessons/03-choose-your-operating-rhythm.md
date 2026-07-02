@@ -10,7 +10,7 @@ prerequisites: "10.02"
 
 ## Learn
 
-The best course outcome is not a perfect artifact. It is a useful rhythm the learner can keep using.
+The best course outcome is not a perfect artifact. It is a useful rhythm the learner can keep using. The goal is compounding: each useful session should make future sessions easier.
 
 Choose a light operating rhythm, such as:
 
@@ -18,6 +18,7 @@ Choose a light operating rhythm, such as:
 - monthly: refine the prototype or Sites plan
 - before scheduling: manually test the automation prompt
 - after a confusing session: ask Codex to summarize where you are
+- when something repeats: decide whether it should become a skill, automation, small tool, Site, or review habit
 
 Small rhythms beat dramatic restarts. Pick the one that would actually save time next week.
 
@@ -26,7 +27,7 @@ Small rhythms beat dramatic restarts. Pick the one that would actually save time
 Try this in Codex:
 
 ```text
-Help me choose a simple operating rhythm for this workflow system. Recommend what I should use weekly, what I should review monthly, what should stay manual for now, and what would be the next safe improvement.
+Help me choose a simple operating rhythm for this workflow system. Recommend what I should use weekly, what I should review monthly, what should stay manual for now, what should become a skill, automation, small tool, Site, or review habit, and what would be the next safe improvement.
 ```
 
 **Success criteria:** The learner leaves with a realistic plan for continuing after the course.

@@ -7,27 +7,28 @@ title: "Congratulations and Next Steps"
 
 You made it through the course.
 
-This course covered the basics of using Codex and then stretched into power-user workflows: understanding project and folder context, working with local files, building skills, creating prototypes, drafting Goals, switching between projects, recording or describing workflows, thinking about hosted sites, and designing safe recurring loops.
+This course covered the basics of using Codex and then stretched into power-user workflows: understanding Codex as an agentic workspace, working with local files, running a use-case skill, building skills, creating prototypes, drafting Goals, assembling a workflow starter kit, recording or describing workflows, deploying a hosted site, and scheduling a safe recurring loop.
 
 ## What You Built
 
 By the end of the course, you should have:
 
-- one guided skill
+- one use-case shortlist from the local use-case skill
+- one first practical skill
 - one custom workflow skill
 - one local prototype dashboard or app
 - one bounded Goal draft
-- one project map and project-switching habit
+- one Codex Workflow Starter Kit
 - one recorded-workflow skill or recording plan
-- one Sites-readiness checklist or hosted prototype plan
-- one automation design card
+- one deployed Codex Sites URL
+- one scheduled safe recurring loop
 - one workflow system map
 
 ## What To Do Next
 
 - keep refining the skill, prototype, Goal, or workflow system that feels most useful right now
-- use your project-switching summary habit when you move between course, skill, prototype, and real-work projects
-- use your automation design card as a manual checklist before scheduling anything
+- move real work into its own local folder when it deserves separate context and future maintenance
+- review your scheduled loop's early outputs and adjust it if it is noisy or too broad
 - revisit the playground and keep experimenting
 - use Codex on a real project of your own
 

@@ -1,37 +1,37 @@
 ---
 module: 6
-title: "Basics Capstone: Work Across Projects"
-description: "Practice switching between course, skill, prototype, and real-work projects before moving into the next-level modules."
+title: "Basics Capstone: Codex Workflow Starter Kit"
+description: "Bring the beginner path together by assembling a practical starter kit for one professional pain point."
 lessons: 4
 ---
 
-# Module 6: Basics Capstone: Work Across Projects
+# Module 6: Basics Capstone: Codex Workflow Starter Kit
 
-This module ties the foundation together. The learner has now seen files, skills, prototypes, and Goals. The capstone is learning how to move between projects without losing the thread.
+This module ties the foundation together. The learner has now seen files, skills, prototypes, and Goals. The capstone is assembling a practical starter kit for one professional pain point.
 
 ## What You'll Learn
 
-- how to map what belongs in each Codex project
-- how to summarize before switching projects
-- how to resume the course after working elsewhere
-- how to prepare foundation artifacts for Modules 7-10
+- how to choose one pain point for a starter kit
+- how to combine a workflow summary, prompt or skill candidate, prototype idea, Goal draft, and review checklist
+- how to decide what should stay manual, become reusable, or move into its own real project folder
+- how to hand off the foundation artifacts into Modules 7-10
 
 ## Lessons
 
 | # | Lesson | Est. Time |
 |---|--------|-----------|
-| 01 | Map Your Codex Projects | 5-10 min |
-| 02 | Summarize Before You Switch | 5-10 min |
-| 03 | Resume After Working Elsewhere | 5-10 min |
-| 04 | Foundation Handoff To Next-Level Modules | 5-10 min |
+| 01 | Choose One Capstone Pain Point | 5-10 min |
+| 02 | Assemble The Workflow Starter Kit | 10-15 min |
+| 03 | Add Review And Safety Checks | 5-10 min |
+| 04 | Handoff To The Power-User Modules | 5-10 min |
 
 ## Lesson Files
 
-- [01. Map Your Codex Projects](./lessons/01-map-your-codex-projects.md)
-- [02. Summarize Before You Switch](./lessons/02-summarize-before-you-switch.md)
-- [03. Resume After Working Elsewhere](./lessons/03-resume-after-working-elsewhere.md)
-- [04. Foundation Handoff To Next-Level Modules](./lessons/04-foundation-handoff-to-next-level-modules.md)
+- [01. Choose One Capstone Pain Point](./lessons/01-choose-one-capstone-pain-point.md)
+- [02. Assemble The Workflow Starter Kit](./lessons/02-assemble-the-workflow-starter-kit.md)
+- [03. Add Review And Safety Checks](./lessons/03-add-review-and-safety-checks.md)
+- [04. Handoff To The Power-User Modules](./lessons/04-handoff-to-power-user-modules.md)
 
 ## By The End of This Module
 
-The learner should know how to switch between projects, return to the course, and identify which foundation artifacts are ready for the next-level modules.
+The learner should have one Codex Workflow Starter Kit and know which part is ready to improve in the power-user modules.

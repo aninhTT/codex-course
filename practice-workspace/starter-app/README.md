@@ -1,6 +1,6 @@
 # Starter App Guide
 
-This is the local prototype learners modify in Module 5.
+This is the local prototype learners modify in Module 4.
 
 ## Files
 
@@ -14,4 +14,4 @@ For this course, the easiest preview is to open `index.html` directly in a brows
 
 ## Personalization Goal
 
-By the end of Module 5, the learner should adapt this starter into a small dashboard or app for one real workflow idea from Module 4.
+By the end of Module 4, the learner should adapt this starter or their own idea into a small dashboard or app for one real workflow pain point.

@@ -15,7 +15,7 @@ Use this plan to validate the course before sharing it more broadly.
 - Lesson files feel guided rather than dense
 - Practice prompts match the lesson concept closely
 - Learners understand projects as folders and can choose the right project context before building
-- Learners can complete the guided skill, custom workflow skill, prototype, and Goal draft without excessive rescue
+- Learners can complete the use-case skill run, first practical skill, custom workflow skill, prototype, and Goal draft without excessive rescue
 - Learners can summarize before switching projects and resume the course afterward
 - Learners understand Modules 7-10 as a power-user extension, not a restart of the beginner course
 - Feature-dependent lessons have safe fallback paths when Record & Replay, Sites, or live automations are unavailable
@@ -25,13 +25,13 @@ Use this plan to validate the course before sharing it more broadly.
 - Module 0: learner understands the course, agreements, guardrails, and first step
 - Module 1: learner understands Codex and completes a first read-only task
 - Module 2: learner understands projects/folders and completes first file work
-- Module 3: learner builds a guided skill and a custom workflow skill
-- Module 4: learner modifies the starter app, chooses project context, and builds or plans a prototype
-- Module 5: learner drafts a bounded, evidence-backed Goal with project context
+- Module 3: learner runs the use-case skill, saves a shortlist, builds a first practical skill, and builds a custom workflow skill
+- Module 4: learner chooses a prototype path, uses Plan mode, and builds or plans a prototype
+- Module 5: learner drafts a bounded, evidence-backed Goal with verification evidence, constraints, iteration policy, and blocked condition
 - Module 6: learner maps projects, summarizes before switching, resumes after switching, and prepares for the next-level modules
 - Module 7: learner prepares a recording plan or refines a recorded workflow skill
-- Module 8: learner creates a Sites-readiness checklist without assuming deployment
-- Module 9: learner creates and manually tests an automation design card before scheduling anything
+- Module 8: learner creates a Sites-readiness checklist and intentionally deploys one Codex Site URL
+- Module 9: learner creates an automation design card, manually tests it, and schedules one safe read-only or report-only loop
 - Module 10: learner maps artifacts into one practical workflow system and reviews risks
 - Module 11: learner leaves with a clear next step after the course
 
@@ -43,7 +43,7 @@ Use this plan to validate the course before sharing it more broadly.
 - The GitHub skill-install lesson feels too brittle or too advanced
 - The prototype module feels like a coding course instead of a Codex course
 - Learners reach skills or prototypes before understanding project/folder context
-- Learners switch projects without a summary and cannot resume the course
+- Learners over-focus on project switching instead of understanding when real work deserves its own folder
 - Record & Replay lessons reteach skills instead of focusing on demonstrated workflow capture
 - Sites lessons rebuild the app instead of teaching review and publishing decisions
 - Automation lessons encourage scheduling before manual testing and review

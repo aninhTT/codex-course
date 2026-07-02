@@ -2,7 +2,7 @@
 
 ## Codex
 
-An AI assistant that can work with the files in the workspace you open.
+An agentic workspace that can chat, inspect files, use tools and connected apps when allowed, edit or create artifacts with your approval, and keep working toward a reviewable result.
 
 ## Workspace
 
@@ -18,7 +18,7 @@ The instruction you give Codex. Better prompts are specific about goal, context,
 
 ## Skill
 
-A reusable set of instructions and optional resources that helps Codex perform a focused task.
+A reusable process Codex can follow. A skill can include instructions, references, examples, and sometimes scripts or tool steps for a focused kind of work.
 
 ## Automation
 
@@ -34,11 +34,11 @@ A recurring Codex task where each run starts independently and reports findings 
 
 ## Goal Mode
 
-A Codex feature for longer tasks where Codex keeps a persistent objective attached to the current thread. A good Goal defines the desired outcome, the evidence Codex should use to verify completion, the boundaries for the work, and what should happen if Codex gets blocked.
+A Codex feature for longer tasks where Codex keeps a persistent objective attached to the current thread. A good Goal defines the desired outcome, verification evidence, constraints, allowed boundaries, iteration policy, and what should happen if Codex gets blocked.
 
 ## Project Switch
 
-Moving from one Codex project or folder to another, such as leaving the course project to work on a skill or prototype. Summarize before switching so you can resume later.
+Moving from one Codex project or folder to another. Most course work happens in this course folder; a real work artifact can move into its own local folder when it needs separate context.
 
 ## Artifact
 
@@ -50,7 +50,7 @@ A Codex feature for demonstrating a workflow on your computer so Codex can turn 
 
 ## Sites
 
-A Codex hosting workflow for creating, saving, deploying, and inspecting websites, apps, and games. In this course, deployment is optional and review comes first.
+A Codex hosting workflow for creating, saving, deploying, and inspecting websites, apps, and games. In this course, review comes first and Module 8 ends with an intentionally deployed Codex Sites URL.
 
 ## Saved Version
 
@@ -63,6 +63,10 @@ A planning artifact for a recurring workflow. It should include the trigger or c
 ## Workflow System Map
 
 A simple map showing how a skill, recorded workflow, prototype or Sites plan, automation design, and Goal idea fit together for one real workflow.
+
+## Codex Workflow Starter Kit
+
+The Module 6 capstone artifact. It gathers one professional pain point, workflow summary, prompt or skill candidate, prototype idea, Goal draft, review checklist, and next-step map.
 
 ## Practice Workspace
 

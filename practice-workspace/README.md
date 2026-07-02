@@ -9,11 +9,11 @@ This folder is the learner's guided sandbox for course exercises. The files insi
 - `projects/`: small project data used in exercises
 - `templates/`: reusable content formats
 - `reference/`: glossary and explanation files
-- `starter-app/`: the dashboard prototype used in Module 5
+- `starter-app/`: the dashboard prototype used in Module 4
 
 ## Instructor Notes
 
-- Keep learners inside this workspace until Module 5 unless they are clearly comfortable.
+- Keep learners inside this workspace for guided exercises unless they are clearly building real work that deserves its own folder.
 - Use `playground/` for side experiments that are not part of the guided lesson path.
 - Encourage learners to ask Codex to explain what it sees before asking it to change anything.
 - Encourage review after every action step.
