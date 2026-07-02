@@ -33,11 +33,11 @@
 
 ## I am not sure which project to use
 
-- Use the course project when you are taking lessons.
+- Use the course project when you are taking lessons. Most course work belongs here.
 - Use `practice-workspace/` for guided exercises.
 - Use `playground/` for experiments.
-- Use a separate Codex project when the skill, prototype, or real-work task needs its own folder.
-- Ask Codex: "Should this task happen in the current course folder, `playground/`, a separate project, or no project?"
+- Use a separate Codex project when real work needs its own folder and future context.
+- Ask Codex: "Is this course folder the right place for this task, or is this real work that deserves its own local folder/project?"
 
 ## I am not sure how to ask Codex
 
@@ -45,10 +45,11 @@
 - Start with one small goal and name the file or folder Codex should use.
 - If the task feels bigger than one step, ask Codex to plan first.
 
-## The GitHub skill lesson feels advanced
+## The skill lesson feels advanced
 
 - Focus on understanding the structure of the skill, not every detail.
-- Use the `use-case` skill as inspiration, not as something to master fully.
+- Use the local `learner-assets/skills/use-case/` folder as inspiration, not as something to master fully.
+- Use the local `learner-assets/skills/use-case/` files. GitHub access is optional.
 - Ask Codex to summarize what matters for a beginner.
 
 ## Record & Replay is not available
@@ -61,10 +62,12 @@
 
 - Ask for a Sites-readiness review first.
 - Ask Codex to distinguish local preview, saved version, and deployment before taking action.
-- Do not deploy or widen access until the audience, content, secrets, and data handling are reviewed.
+- Deploy only after the audience, content, secrets, and data handling are reviewed.
+- Use sample data and the safest reasonable audience for the course deployment.
 
 ## Automations feel too powerful
 
-- Stay in design mode and create an automation design card first.
-- Test the automation prompt manually before scheduling anything.
+- Create an automation design card first.
+- Test the automation prompt manually before scheduling.
+- Schedule only a read-only or report-only loop for the course.
 - Include a stop condition, risk check, and first-run review plan.

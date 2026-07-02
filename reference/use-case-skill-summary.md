@@ -1,7 +1,7 @@
 # Use-Case Skill Summary
 
-Source repo: [aninhTT/skill-bank](https://github.com/aninhTT/skill-bank)  
-Guided skill for this course: `use-case`
+Local course folder: `learner-assets/skills/use-case/`  
+Optional source repo for the course author: `https://github.com/thumbtack/shared-skills/tree/main/users/amies-skill-bank/use-case`
 
 ## Why This Skill Is Included
 
@@ -22,15 +22,15 @@ The `use-case` skill is designed to find automation or AI opportunities from wor
 
 Learners use this skill to:
 
-1. install a real GitHub-hosted skill
-2. inspect how a stronger skill is structured
-3. borrow its thinking process
-4. brainstorm 2 to 3 Codex use cases for their own work
+1. inspect or copy a real workflow skill from inside the course folder
+2. run the skill conversationally inside Codex
+3. save a practical shortlist in `learner-assets/use-case-shortlist.md`
+4. use one shortlist idea to build a first practical skill
 
-## Guided Install Target
+## Local Course Target
 
 ```text
-https://github.com/aninhTT/skill-bank/tree/main/use-case
+learner-assets/skills/use-case/
 ```
 
-After installation, Codex should remind the learner to restart Codex if needed.
+The course should not require learners to access GitHub during the lesson. The local folder is the source of truth for the course run.

@@ -10,13 +10,24 @@ Use this page when you are not sure how to ask Codex for help or when Codex star
 4. **Act** when you are ready for Codex to edit or create something.
 5. **Review** what changed before you trust the result.
 
+## The Knowledge-Work Loop
+
+Use this loop when the work is bigger than one file:
+
+1. **Connect** the folder, files, apps, or approved sources Codex needs.
+2. **Contextualize** the task with goals, preferences, constraints, and source links.
+3. **Delegate or collaborate** depending on how predictable and low-risk the task is.
+4. **Review** in the destination app or artifact, not only in Codex.
+5. **Compound** by saving the prompt, skill, checklist, or workflow note that worked.
+
 ## Strong Beginner Habits
 
 - Start with the smallest useful task.
 - Tell Codex whether you want explanation, planning, or action.
 - Use the right project or folder: broad enough for context, narrow enough for safety.
 - Name the files or folders Codex should use when possible.
-- Ask whether the current project is right before building a skill, prototype, or Goal.
+- Remember that most course work happens in this course folder.
+- Move real work into a separate local folder only when it deserves its own home and context.
 - Ask Codex what it is about to change before letting it edit.
 - Review changes before trusting them.
 - Ask Codex to summarize what changed after edits.
@@ -24,6 +35,7 @@ Use this page when you are not sure how to ask Codex for help or when Codex star
 - Use Codex as a tutor when confused, not only as a doer.
 - Stop and ask for a recap when you lose your place.
 - Use Goal mode only for longer work with a clear finish line, evidence source, and boundaries.
+- Use voice dictation when talking through messy workflow context would be faster than typing.
 
 ## Helpful Prompts
 
@@ -44,11 +56,11 @@ I am lost. Summarize where I am in the course and tell me the next sensible step
 ```
 
 ```text
-Should this task happen in the current course folder, `playground/`, a separate Codex project, or no project?
+Is this course folder the right place for this task, or is this real work that deserves its own local folder/project?
 ```
 
 ```text
-Before I switch projects, summarize what we did, what changed, and where I should return.
+Before you act, tell me what additional context would help you do this better.
 ```
 
 ## When To Slow Down
@@ -57,7 +69,7 @@ Slow down and ask for a plan first when:
 
 - the task touches more than one file
 - the output will be used by other people
-- you are about to switch projects
+- you are about to move real work into its own folder
 - you do not understand what Codex is about to change
 - Codex gives you a very broad answer
 - you feel like you are just clicking along without understanding
@@ -73,5 +85,6 @@ Goal mode is useful when you need Codex to keep working toward a defined outcome
 - What files, tools, or sources may Codex use?
 - What should Codex preserve or avoid?
 - What should Codex do if the evidence is missing?
+- How should Codex choose the next best action between attempts?
 
 If those answers are fuzzy, ask Codex to help draft the Goal first.

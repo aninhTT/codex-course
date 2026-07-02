@@ -7,12 +7,15 @@ lessons: 5
 
 # Module 2: Projects, Folders, And First File Work
 
-This module is where learners connect the idea of Codex to the files on their computer. A Codex project is basically a local folder Codex can see and work inside. Some Codex conversations do not need a project, but real file work depends on giving Codex the right context.
+This module is where learners connect the idea of Codex to the files on their computer. This course folder is already the project for the course. Most course work happens here, especially inside `practice-workspace/`.
+
+A real work project can move into its own local folder later when it deserves separate context and future maintenance.
 
 ## What You'll Learn
 
 - what a Codex project is
-- when to use the course workspace, `playground/`, a smaller folder, or no project at all
+- what lives inside this course folder
+- when to use the course workspace, `practice-workspace/`, `playground/`, a separate real-work folder, or no project at all
 - how to inspect before editing
 - how to make and review a small file change
 - how to create a file the learner can find on their computer
@@ -37,4 +40,4 @@ This module is where learners connect the idea of Codex to the files on their co
 
 ## By The End of This Module
 
-The learner should understand projects and folders well enough to choose the right context, inspect before editing, make one small change, and review a real file Codex created or changed.
+The learner should understand projects and folders well enough to find course materials, choose the right context, inspect before editing, make one small change, and review a real file Codex created or changed.

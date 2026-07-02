@@ -18,25 +18,26 @@
 
 | Need | What Codex Helps With |
 |------|------------------------|
+| Tune the experience | Settings, tone, custom instructions, non-technical preferences |
 | Understand a file or folder | Summaries, explanations, walkthroughs |
-| Choose project context | Deciding between course workspace, `playground/`, another project, or no project |
+| Choose working context | Understanding what is in the course folder and when real work deserves its own folder |
 | Plan work before acting | Inspecting first and breaking tasks into steps |
 | Improve a document or workflow | Rewrites, structure, cleanup |
-| Build something reusable | Skills and local prototypes |
+| Build something reusable | Skills, prompts, local prototypes, review checklists |
 | Capture a demonstrated workflow | Record & Replay or a recording-level walkthrough |
-| Share or review a prototype | Sites readiness, saved versions, and intentional deployments |
-| Repeat a safe workflow | Durable prompts, Goals, and automation design cards |
+| Share or review a prototype | Sites readiness, saved versions, and intentional Codex Sites deployment |
+| Repeat a safe workflow | Durable prompts, Goals, automation design cards, and scheduled safe loops |
 | Get unstuck | Tutoring and troubleshooting |
 
 ## Best-Practice Loop
 
 Use this loop when you are not sure how to work with Codex:
 
-1. **Ask** for one clear thing.
-2. **Inspect** what Codex can see or what it found.
-3. **Plan** before bigger changes.
-4. **Act** when you are ready for a real edit or new file.
-5. **Review** what changed before you trust it.
+1. **Connect** Codex to the folder, files, or tools it needs.
+2. **Contextualize** the task with goals, source material, preferences, and boundaries.
+3. **Delegate or collaborate** depending on how predictable the task is.
+4. **Review** the result in the place where it will be used.
+5. **Compound** by saving useful prompts, skills, checklists, or workflow notes.
 
 ## Helpful Prompts
 
@@ -61,23 +62,27 @@ Avoid slash commands in this course. In Codex, slash-prefixed inputs may be inte
 
 ## Key Concepts
 
+**Codex** — an agentic workspace that can chat, inspect files, use tools, build artifacts, and act inside the boundaries you approve.
+
 **Workspace** — the folder Codex can currently inspect and work inside.
 
 **Project** — in this course, a Codex project means the folder/context Codex is working in. Projects are useful when Codex needs files, artifacts, or local context.
 
-**Skill** — a reusable set of instructions and resources that helps Codex do one kind of job consistently.
+**Skill** — a reusable process for Codex. A skill can include instructions, references, and sometimes scripts or tool steps so Codex can do one kind of job consistently.
 
 **Automation** — a recurring Codex workflow that runs on a schedule.
 
-**Prototype** — a quick local app, dashboard, or site built to test a useful idea.
+**Prototype** — a quick local app, dashboard, or workflow surface built to test a useful idea.
 
 **Record & Replay** — a Codex workflow for demonstrating a repetitive task on your computer and turning the pattern into a reusable skill.
 
-**Sites** — a Codex hosting workflow for creating, saving, deploying, and inspecting websites or web apps.
+**Sites** — a Codex hosting workflow for creating, saving, deploying, and inspecting websites or web apps. In this course, Module 8 ends with a real Codex Sites URL.
 
-**Automation Design Card** — a planning artifact that names a recurring workflow's trigger, cadence, prompt, evidence, stop condition, risks, and review plan before scheduling.
+**Automation Design Card** — a planning artifact that names a recurring workflow's trigger, cadence, prompt, evidence, stop condition, risks, and review plan before scheduling a safe loop.
 
 **Workflow System Map** — a simple map showing which course artifact handles each part of a real workflow.
+
+**Codex Workflow Starter Kit** — the Module 6 capstone artifact that bundles one pain point, workflow summary, prompt or skill candidate, prototype idea, Goal draft, review checklist, and next-step map.
 
 ## Keep Nearby
 

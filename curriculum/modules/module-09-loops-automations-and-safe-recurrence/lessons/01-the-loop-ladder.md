@@ -22,6 +22,12 @@ Think of loops as a ladder:
 
 The higher rungs are not automatically better. Use the smallest loop that gives you the control you need.
 
+## Video Cue
+
+Watch this optional walkthrough: [Loops and automations](https://www.loom.com/share/3f7384152f2f46f1bd06ab92bb1db51d).
+
+Note: this video shows a loop in Claude Code. The same principle applies in Codex. Now that you know how to use Codex well, treat the concepts as tool agnostic: define the loop, give the agent the right context, set boundaries, review the output, and only automate when the workflow is safe enough to repeat.
+
 ## Practice
 
 Try this in Codex:

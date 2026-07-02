@@ -7,13 +7,14 @@ lessons: 4
 
 # Module 7: Record A Workflow Into A Skill
 
-You already learned skills and workflow interviews; now you'll capture a workflow by demonstrating it.
+You already learned skills, workflow interviews, and the starter kit; now you'll capture a workflow by demonstrating it or narrating it in enough detail for Codex to turn into a reusable process.
 
 This module adds another way to create reusable Codex workflows. Instead of describing every step from memory, the learner thinks through how to show Codex a short, stable workflow and then refine the generated skill so it is safe and useful.
 
 ## What You'll Learn
 
 - when recording a workflow is better than describing it
+- when voice dictation is enough to capture messy workflow context
 - how to choose a short, stable workflow with clear success criteria
 - how to prepare a clean recording without secrets or unrelated cleanup
 - how to refine a recorded skill by naming variable inputs, hidden preferences, and verification steps
@@ -37,4 +38,4 @@ This module adds another way to create reusable Codex workflows. Instead of desc
 
 ## By The End of This Module
 
-The learner should have either a recorded-workflow skill to refine or a clear recording plan they can use later, plus a better sense of when showing Codex a workflow is easier than explaining it from scratch.
+The learner should have either a recorded-workflow skill to refine or a clear recording-level walkthrough they can use later, plus a better sense of when showing, dictating, or writing a workflow is the right capture method.

@@ -8,6 +8,10 @@ prerequisites: "2.04"
 
 # Lesson 2.05: Create A File You Can Find
 
+## Where You Are
+
+You have edited one file. Now you will create a new file and learn to stay oriented after Codex acts.
+
 ## Learn
 
 One of the most useful beginner moments is seeing Codex create a real file that you can find on your computer. This makes Codex feel less abstract. It is not just chatting; it is working with files.
@@ -25,3 +29,11 @@ After you create it, tell me exactly where you saved it, remind me to open it my
 ```
 
 **Success criteria:** Codex creates the file in the correct folder, the learner can find it, and the learner reviews the file directly.
+
+## What You Made Or Decided
+
+You created a durable course notes file that you can keep using later.
+
+## What's On Deck
+
+Next, Module 3 turns repeated work into skills: reusable processes Codex can follow.

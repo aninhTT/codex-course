@@ -23,6 +23,8 @@ An automation design card should include:
 - stop condition
 - risk check
 - review plan for the first few runs
+- destination app or artifact where review should happen
+- owner who will maintain or retire the workflow
 
 This is the automation version of planning before acting.
 
@@ -31,7 +33,7 @@ This is the automation version of planning before acting.
 Try this in Codex:
 
 ```text
-Create an automation design card for my chosen workflow. Include workflow name, trigger or cadence, loop type, durable prompt, evidence source, expected output, stop condition, risk check, and first-run review plan. Do not schedule the automation.
+Create an automation design card for my chosen workflow. Include workflow name, trigger or cadence, loop type, durable prompt, evidence source, expected output, stop condition, risk check, destination-app review plan, owner, and first-run review plan. Do not schedule the automation.
 ```
 
 **Success criteria:** The learner has a complete design card and has not scheduled anything by default.
