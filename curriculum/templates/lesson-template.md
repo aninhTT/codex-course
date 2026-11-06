@@ -1,39 +1,46 @@
 ---
 module: 0
 lesson: 0
-title: "Lesson Title"
-difficulty: beginner
-prerequisites: "None"
+title: "Lesson title"
+surfaces: [chatgpt-work, codex]
 ---
 
 # Lesson X.XX: Lesson Title
 
-## Where You Are
-
-Briefly remind the learner what they just learned, what this lesson adds, and what artifact or decision they are moving toward.
+Open with the work problem and the useful result the learner will make.
 
 ## Learn
 
-Use this section for the short teaching part of the lesson. Explain defined terms before examples. Keep it guided, practical, and easy to scan.
+Teach the concept conversationally. Define unfamiliar terms and explain why they matter for the chosen workflow.
 
-## Visual Cue
+## See It
 
-Add a simple Mermaid diagram, folder tree, or screenshot placeholder when it would make the idea easier to understand. If a screenshot is coming later, point to the intended file in `curriculum/assets/screenshots/` without making the lesson depend on it.
+Show a short request, before-and-after, or concrete output. Demonstrate rather than asking the learner to request a definition.
+
+## Optional Demo
+
+Include an approved Work/Codex video only when relevant. Do not invent its duration or require watching.
 
 ## Practice
 
-Give the learner one clear task to do in Codex.
+Write numbered steps with a clear result. The tutor presents one step at a time. Carry the learner's own workflow forward; provide a sample route.
 
-```text
-Put the exact learner prompt here.
-```
+**Success criteria:** Name visible evidence the tutor should inspect.
 
-**Success criteria:** State what a good result looks like in one or two sentences.
+## Challenge — Optional
 
-## What You Made Or Decided
+Give an independent stretch goal. Offer progressive hints on request. The learner can skip it and continue.
 
-Name the artifact, decision, or habit the learner should now have.
+**Success criteria:** Check the result rather than requiring one method.
 
-## What's On Deck
+## Quick Check
 
-Preview the next lesson or module only after Practice and the learner outcome.
+Ask one relevant question about assumptions, facts, or behavior.
+
+## Carry Forward
+
+Name what the next activity will use.
+
+## Tutor Notes
+
+Put surface differences and troubleshooting here when needed. Module pages should include Work and Codex routes. Save progress after checking a section.

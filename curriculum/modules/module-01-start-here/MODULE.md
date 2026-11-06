@@ -1,37 +1,40 @@
 ---
 module: 1
-title: "What Codex Is And How To Set It Up"
-description: "Tune Codex settings, learn Codex as an agentic workspace, compare it with chat-only tools, and complete a first read-only tour."
-lessons: 4
+title: "Get Started in Work or Codex"
+lessons: 5
+track: foundation
+surfaces: [chatgpt-work, codex]
 ---
 
-# Module 1: What Codex Is And How To Set It Up
+# Module 1: Get Started in Work or Codex
 
-Welcome to the foundation of the course. This module sets up Codex for a beginner-friendly experience, then gives learners the simplest useful mental model before they start changing files or building artifacts.
+## What You Will Do
 
-## What You'll Learn
+Choose your work surface, draft a team update, connect useful tools, and discover AI ideas from your week.
 
-- which settings can make Codex feel easier to work with
-- what Codex is in practical terms: an agentic workspace that can act with files, tools, apps, and context
-- how Codex differs from chat-only AI tools without getting lost in product comparisons
-- how to complete a first read-only task and course folder tour using sample files created for this course
+Recommended example: Draft a short team update, connect useful tools, and find ideas from your actual week.
+
+You can use another workflow instead. Bring its corresponding result forward rather than starting a new task.
+
+## Choose Your Surface
+
+- **ChatGPT Work:** Choose ChatGPT Work in the desktop app and keep the tutor here. Start with the tour below.
+- **Codex:** Open the course project and stay in Codex for the foundation. Technical details are available when you want them.
+
+Follow the activities in order, or ask to skip a topic you already know. Optional challenges never block progress.
 
 ## Lessons
 
-| # | Lesson | Est. Time |
-|---|--------|-----------|
-| 01 | Set Up Codex For This Course | 5-10 min |
-| 02 | Codex vs Chat Tools | 5-10 min |
-| 03 | First Read-Only Task | 5-10 min |
-| 04 | Tour This Course Folder | 5-10 min |
+| Lesson | Allow |
+| --- | --- |
+| [1.01: Choose Work or Codex and try your first task](lessons/01-choose-how-to-work.md) | 5–15 minutes |
+| [1.02: Make the assistant easier to work with](lessons/02-set-preferences.md) | 5–15 minutes |
+| [1.03: Find the sources and ask a better question](lessons/03-inspect-first.md) | 5–15 minutes |
+| [1.04: Connect your everyday tools](lessons/04-connect-your-tools.md) | 5–15 minutes |
+| [1.05: Find AI ideas from your actual week](lessons/05-find-ideas-from-your-week.md) | 10–15 minutes |
 
-## Lesson Files
+## At the End
 
-- [01. Set Up Codex For This Course](./lessons/01-what-codex-is.md)
-- [02. Codex vs Chat Tools](./lessons/02-codex-vs-chat-tools.md)
-- [03. First Read-Only Task](./lessons/03-first-read-only-task.md)
-- [04. Tour This Course Folder](./lessons/04-tour-this-course-folder.md)
+Your chosen surface, first draft, useful connections, source-backed ideas, and a workflow to carry forward.
 
-## By The End of This Module
-
-The learner should be able to explain Codex simply, know when Codex is a better fit than chat-only help, know where the course lives, and finish a first low-risk task using real files in `practice-workspace/`.
+The tutor checks the actual result and saves your place. Say “Take me to the next lesson,” “Give me a hint,” or “Summarize where I am before I stop.”

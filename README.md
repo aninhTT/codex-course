@@ -1,90 +1,76 @@
-# Codex Interactive Course
+# Everyday Work with ChatGPT Work and Codex
 
-A beginner-friendly interactive course that runs right inside Codex. Open this folder in the Codex app and use the course files, practice workspace, and reference materials as your learning environment.
+Last updated: **Friday, November 6, 2026** (11/6/2026).
 
-## What This Course Covers
+Build useful work while learning to use an AI agent. Take the course inside **ChatGPT Work or Codex** with a tutor that teaches, demonstrates, and guides one activity at a time.
 
-This course is focused on **Codex in the Codex app**. It starts from the basics and moves into practical workflows that help learners use Codex with real confidence.
+For most employees who are not engineers, we recommend **ChatGPT Work**. It is built to take action across your information and tools. **Codex supports the full foundation too** and we recommend it for technical work such as GitHub and local app development.
 
-- **Codex Basics:** what Codex is as an agentic workspace, when to use it, how to tune settings, and how to start safely
-- **Projects And Files:** how this course folder works, how Codex uses local context, and how to make a first safe edit
-- **Skills As Repeatable Processes:** how to run a local use-case skill and turn the output into practical skills
-- **Prototyping:** how to choose a pain-point prototype, ask for a plan, preview, and review a small app
-- **Goals:** how to draft longer-horizon Goals with evidence, constraints, iteration policy, and blocked conditions
-- **Basics Capstone:** how to assemble a Codex Workflow Starter Kit for one real professional pain point
-- **Power-User Extension:** how to record workflows, deploy a Codex Site, schedule a safe recurring loop, and map a practical Codex workflow system
-- **Closing:** where to go next after the course
+## Start Here
 
-## What This Course Does Not Cover
+Follow [the startup instructions](START-HERE.md) for your chosen surface. You can open the course folder in Codex or give Work access to the folder or course ZIP.
 
-This course does **not** teach how to use ChatGPT in the chat interface. That is covered elsewhere, including the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
+Say “Start the course.” Your tutor will read its instructions, check for saved progress, and guide you. You do not need to open lesson files yourself.
 
-## Quick Start
-
-1. Open this folder in the Codex app.
-2. Read [Welcome](curriculum/modules/module-00-welcome/welcome.md).
-3. Keep [Artifact Tracker](learner-assets/artifact-tracker.md) nearby.
-4. Use [Practice Workspace](practice-workspace/README.md) for guided exercises.
-5. Start with [Module 1](curriculum/modules/module-01-start-here/MODULE.md).
-
-## Modules
-
-| Module | Focus | Lessons |
-|--------|-------|---------|
-| [0. Welcome](curriculum/modules/module-00-welcome/welcome.md) | Course setup, agreements, guardrails, first step | Welcome |
-| [1. What Codex Is And How To Set It Up](curriculum/modules/module-01-start-here/MODULE.md) | Settings, Codex as an agent, chat comparison, first read-only tour | 4 |
-| [2. Projects, Folders, And First File Work](curriculum/modules/module-02-working-with-codex/MODULE.md) | Projects as folders, context choice, first safe file edit | 5 |
-| [3. Skills As Repeatable Processes](curriculum/modules/module-03-skills/MODULE.md) | Inspect and run the use-case skill, build practical skills from its output | 8 |
-| [4. Prototype A Useful Workflow](curriculum/modules/module-04-prototype-a-useful-app/MODULE.md) | Choose a prototype, tour the starter app, use Plan mode, build and review | 7 |
-| [5. Goals And Longer Codex Work](curriculum/modules/module-05-goals-and-longer-codex-work/MODULE.md) | Goal mode, evidence, constraints, iteration policy, blocked conditions | 4 |
-| [6. Basics Capstone: Codex Workflow Starter Kit](curriculum/modules/module-06-basics-capstone-work-across-projects/MODULE.md) | Assemble a practical starter kit for one professional pain point | 4 |
-| [7. Record A Workflow Into A Skill](curriculum/modules/module-07-record-a-workflow-into-a-skill/MODULE.md) | Capture a demonstrated workflow and refine it into a reusable skill | 4 |
-| [8. Sites And Hosted Prototypes](curriculum/modules/module-08-sites-and-hosted-prototypes/MODULE.md) | Review, save, and deploy a Codex Site URL | 4 |
-| [9. Loops, Automations, And Safe Recurrence](curriculum/modules/module-09-loops-automations-and-safe-recurrence/MODULE.md) | Design, test, and schedule a safe recurring Codex loop | 5 |
-| [10. Power-User Capstone](curriculum/modules/module-10-power-user-capstone/MODULE.md) | Map course artifacts into one practical workflow system | 3 |
-| [11. Congratulations and Next Steps](curriculum/modules/module-11-closing/closing.md) | Wrap-up and other learning resources | Closing |
-
-## Shared Folders
-
-```text
-codex-course/
-├── AGENTS.md              ← Course-tutor instructions for Codex
-├── curriculum/            ← Welcome, modules, and lesson content
-│   └── assets/            ← Diagrams and screenshot slots
-├── practice-workspace/    ← Guided build sandbox used in lessons
-├── reference/             ← Cheat sheet, glossary, troubleshooting, navigation
-├── playground/            ← Free experimentation sandbox
-└── learner-assets/        ← Artifact tracker and use-case worksheet
-```
-
-## How This Course Works
-
-- Lessons are designed to take about 5 to 10 minutes.
-- Each lesson uses **Where You Are**, **Learn**, **Practice**, **What You Made Or Decided**, and **What's On Deck** sections.
-- The course is meant to be taken in order the first time.
-- Codex may read or edit files in this workspace during exercises.
-- You should review results before accepting edits, but you do not need to overthink every single step.
-
-## Helpful Support Files
-
-- [Cheat Sheet](reference/cheat-sheet.md)
-- [Codex Best Practices](reference/codex-best-practices.md)
-- [Glossary](reference/glossary.md)
-- [Troubleshooting](reference/troubleshooting.md)
-- [How To Navigate This Course](reference/how-to-use-this-course.md)
-- [Playground](playground/README.md)
+Authors can build an uploadable course ZIP with `python3 scripts/package_course.py` after verifying the source files. It saves to `dist/everyday-work-course.zip`.
 
 ## What You Will Build
 
-- one use-case shortlist from the local use-case skill
-- one first practical skill
-- one custom workflow skill
-- one local prototype dashboard or app
-- one bounded Goal draft
-- one Codex Workflow Starter Kit
-- one recorded-workflow skill or recording plan
-- one deployed Codex Sites URL
-- one scheduled safe recurring loop
-- one workflow system map
-- one shortlist of Codex use cases for your own work
-- one draft Goal for a longer, evidence-based workflow
+We recommend following one weekly team update from first draft to team Site. You will improve that draft with Clean Draft, build weekly-update-helper, record a supporting step, and schedule the same method.
+
+It is a recommendation, not a requirement. If you have another task in mind, use it and carry it through the same activities. After connecting your tools, a new activity helps you find ideas in your calendar, Granola notes, and Linear projects from the past week.
+
+See [the connected team-update example](reference/team-update-example.md) for what each module adds.
+
+You will organize its sources, use Clean Draft, build a skill, record a small task, schedule recurring work, and create a Page and useful outputs. Then you will build a small Site for an audience you choose.
+
+Each lesson includes **Learn → See It → Practice → optional Challenge**. The tutor checks actual results and saves your place. Challenges add independent practice without blocking progress.
+
+## Modules
+
+Modules 1–8 are the shared foundation. Module 9 offers deeper Codex building. Module 10 supports longer work in Work or Codex.
+
+| Module | Lessons |
+| --- | --- |
+| [1. Get Started in Work or Codex](curriculum/modules/module-01-start-here/MODULE.md) | 5 |
+| [2. Give Your Workflow a Home](curriculum/modules/module-02-projects-and-first-update/MODULE.md) | 5 |
+| [3. Use Clean Draft, Then Build Your First Skill](curriculum/modules/module-03-skills/MODULE.md) | 6 |
+| [4. Record a Workflow and Reuse It](curriculum/modules/module-04-record-a-workflow/MODULE.md) | 4 |
+| [5. Put a Useful Skill on a Schedule](curriculum/modules/module-05-scheduled-tasks/MODULE.md) | 5 |
+| [6. Create and Improve Work in Space](curriculum/modules/module-06-space-and-pages/MODULE.md) | 4 |
+| [7. Create Work Your Audience Can Use](curriculum/modules/module-07-documents-slides-and-spreadsheets/MODULE.md) | 4 |
+| [8. Build a Useful Team Site](curriculum/modules/module-08-sites-and-foundation-checkpoint/MODULE.md) | 5 |
+| [9. Build Further with Codex](curriculum/modules/module-09-local-prototype-extension/MODULE.md) | 5 |
+| [10. Guide Longer Work in Work or Codex](curriculum/modules/module-10-longer-work-and-system-map/MODULE.md) | 5 |
+
+Finish with [the closing lesson](curriculum/modules/module-11-closing/closing.md) after the foundation or your chosen extensions.
+
+## Setup Made Practical
+
+In Lesson 1.04, the tutor offers help connecting Google Docs, Sheets, Drive, Google Calendar, Granola, Linear, and Gmail. It verifies connections with useful test tasks. Thumbtack has enabled Computer Use in the intended learning environment.
+
+Module 3 uses [Clean Draft in the marketplace](https://ai-marketplace-sbqrdzy4sa-uw.a.run.app/?tool=curated%3Askill%3Aclean-draft) and its [GitHub source](https://github.com/thumbtack/shared-skills/tree/main/users/tsalman/clean-draft). Use your company GitHub access; the tutor can retrieve the files. An unchanged course copy supports guided practice if access needs resolving.
+
+Follow the current [AI Expectations](https://thumbtack.haystack.so/resources/c8602dcc-0898-4f92-ae93-243ee7d696ba) when using real work. You own the result and decide when it is ready to share.
+
+## Find Your Way
+
+- “Show me the full course outline.”
+- “Take me to the next lesson.”
+- “Skip to Lesson 3.02.”
+- “Give me a hint.”
+- “Check my work.”
+- “Summarize where I am before I stop.”
+
+## Course Files
+
+| Location | Purpose |
+| --- | --- |
+| `AGENTS.md` | Tutor instructions for either surface. |
+| `curriculum/` | Lessons, demos, and course index. |
+| `practice-workspace/` | Fictional inputs and practice outputs. |
+| `learner-assets/` | Progress template, output tracker, and example skills. |
+| `reference/` | Product details, hints for setup, and troubleshooting. |
+| `playground/` | Experiments and optional local prototype work. |
+
+For uploaded courses, ask for the latest progress file before moving to another task. Conversation history and local files do not automatically transfer.

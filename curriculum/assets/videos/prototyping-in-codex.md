@@ -1,9 +1,7 @@
-# Video: Prototyping In Codex
+# Local Prototype Walkthrough
 
-Linked video: https://www.loom.com/share/d6b623e6bc2e416c89fd0e877f65171f
+[Open the earlier recording](https://www.loom.com/share/d6b623e6bc2e416c89fd0e877f65171f).
 
-Purpose: show what it looks like to prototype in Codex, from idea to first working version.
+Author review needed: Optional Module 9. Local app work is no longer a foundation prerequisite.
 
-Suggested placement: Module 4, Lesson 4.01.
-
-Status: linked in lesson.
+The author still needs to check this recording against the November 2026 revision. The written lessons are the teaching source. Do not require the learner to watch the video to proceed.

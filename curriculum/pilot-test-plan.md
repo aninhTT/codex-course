@@ -1,49 +1,48 @@
-# Pilot Test Plan
+# Pilot the Course in Both Surfaces
 
-Use this plan to validate the course before sharing it more broadly.
+Use an actual learner session for live setup and sharing. Author checks should not connect accounts, create schedules, record a screen, or publish a Site.
 
-## Test Learner Profiles
+## Startup and Resume
 
-1. Absolute beginner who has never used Codex
-2. ChatGPT-heavy learner who is comfortable with AI chat but new to workspace-based tools
-3. General productivity learner who wants workflow help more than coding depth
+- Start in Work with an accessible course folder or ZIP. Verify the tutor reads its instructions, course index, and lesson.
+- Start in Codex with the folder open. Verify the same welcome and foundation are available.
+- Complete an activity, stop, then resume from saved progress. Verify completed work remains intact.
+- Move an uploaded course to another task using the latest progress file. Check that the tutor does not promise automatic sync.
 
-## What To Observe
+## Teaching Experience
 
-- New learners understand the root README quickly
-- Learners can find the welcome file, module landing pages, and reference docs without help
-- Lesson files feel guided rather than dense
-- Practice prompts match the lesson concept closely
-- Learners understand projects as folders and can choose the right project context before building
-- Learners can complete the use-case skill run, first practical skill, custom workflow skill, prototype, and Goal draft without excessive rescue
-- Learners can summarize before switching projects and resume the course afterward
-- Learners understand Modules 7-10 as a power-user extension, not a restart of the beginner course
-- Feature-dependent lessons have safe fallback paths when Record & Replay, Sites, or live automations are unavailable
+- Tutor explains the concept before the example and gives one practice step at a time.
+- Learner can choose a real workflow and carry it across modules.
+- Tutor demonstrates something concrete instead of only supplying a long prompt.
+- Optional challenges allow independence and never lock progress.
+- A request for a hint gets a nudge before a full worked solution.
 
-## Success Checks
+## Activity Evidence
 
-- Module 0: learner understands the course, agreements, guardrails, and first step
-- Module 1: learner understands Codex and completes a first read-only task
-- Module 2: learner understands projects/folders and completes first file work
-- Module 3: learner runs the use-case skill, saves a shortlist, builds a first practical skill, and builds a custom workflow skill
-- Module 4: learner chooses a prototype path, uses Plan mode, and builds or plans a prototype
-- Module 5: learner drafts a bounded, evidence-backed Goal with verification evidence, constraints, iteration policy, and blocked condition
-- Module 6: learner maps projects, summarizes before switching, resumes after switching, and prepares for the next-level modules
-- Module 7: learner prepares a recording plan or refines a recorded workflow skill
-- Module 8: learner creates a Sites-readiness checklist and intentionally deploys one Codex Site URL
-- Module 9: learner creates an automation design card, manually tests it, and schedules one safe read-only or report-only loop
-- Module 10: learner maps artifacts into one practical workflow system and reviews risks
-- Module 11: learner leaves with a clear next step after the course
+| Module | What to inspect |
+| --- | --- |
+| 1 | Work/Codex choice, first draft, verified connections, and source-backed ideas from the last week. |
+| 2 | Project, workflow brief, source-backed draft, and self-directed task. |
+| 3 | Complete Clean Draft folder, before/after, inspected gaps, creator plan, custom skill, and second-input test. |
+| 4 | Stopped recording, skill draft, replayed input, and capture-to-draft handoff. |
+| 5 | Exact-request test, missing-input case, saved weekly or monthly task, next run, and pause control. |
+| 6 | Page location, direct and assistant edits, access choice, and new-draft handoff. |
+| 7 | Chosen work files, audience, useful edits, and one verified calculation when taking the spreadsheet lesson. |
+| 8 | Saved Site, tested interaction, production URL, audience, and workflow map. |
+| 9 | Local prototype, change review, read-only repository inspection, and handoff. |
+| 10 | Checkable Goal draft, real run status, evidence review, and maintenance choice. |
 
 ## Failure Signals
 
-- Learners still feel lost at the root of the course
-- Module landing pages do not help learners decide what to open next
-- Lessons read more like documentation than guided teaching
-- The GitHub skill-install lesson feels too brittle or too advanced
-- The prototype module feels like a coding course instead of a Codex course
-- Learners reach skills or prototypes before understanding project/folder context
-- Learners over-focus on project switching instead of understanding when real work deserves its own folder
-- Record & Replay lessons reteach skills instead of focusing on demonstrated workflow capture
-- Sites lessons rebuild the app instead of teaching review and publishing decisions
-- Automation lessons encourage scheduling before manual testing and review
+- A Work learner must return to Codex for tutoring.
+- The tutor gives a Codex learner instructions that assume Work only.
+- Computer Use setup warnings repeat despite the intended enabled environment.
+- Connector setup stops at a catalog listing instead of a verified query.
+- The tutor calls a downloaded skill installed without checking.
+- A draft or schedule reads old output as new source notes.
+- Progress marks a plan as a live action or a skipped activity as passed.
+- Video links come from the Claude course or include invented durations.
+
+## Closeout
+
+Record confusing instructions, access issues, and actual activity times. Check that the learner can find their results and pause any unwanted schedule. Author validation does not replace these live pilot checks.

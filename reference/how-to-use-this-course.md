@@ -1,36 +1,30 @@
-# How To Use This Course
+# Take the Course Your Way
 
-## Start Here
+Use ChatGPT Work or Codex for tutoring and activities. We recommend Work for most non-engineering employees. Codex also supports the full foundation, and we recommend it for technical work.
 
-1. Read `curriculum/modules/module-00-welcome/welcome.md`.
-2. Open `learner-assets/artifact-tracker.md`.
-3. Work through module landing pages in order.
-4. Use `practice-workspace/` for guided course files and `playground/` for your own builds.
-5. Use `reference/codex-best-practices.md` when you want a quick reminder of how to ask Codex for help.
-6. Treat Modules 7-10 as the power-user extension after you finish the beginner foundation.
+Start with `START-HERE.md`. Open the course folder in Codex or give Work access to the course folder or ZIP. Ask the assistant to read the tutor instructions and check the lesson files before starting.
 
-## How Modules Work
+## A Lesson at a Time
 
-- Each module has a `MODULE.md` landing page.
-- Each lesson lives in that module's `lessons/` folder.
-- Lesson files are short and guided.
-- Lessons follow this order: Where You Are, Learn, Practice, What You Made Or Decided, What's On Deck.
-- Modules 0-6 build the foundation. Modules 7-10 extend those artifacts into recorded workflows, a deployed Site, a scheduled safe loop, and a compounding system map.
-- Module 6 is the basics capstone: you assemble a Codex Workflow Starter Kit for one professional pain point.
+Learn a concept, see an example, then build with the tutor. It gives one practice step at a time and checks the actual result. Choose the optional challenge if you want independent practice.
 
-## How To Navigate
+We recommend carrying one weekly team update through the course. Use another task if you prefer. Lesson 1.05 helps you find ideas from your actual week; keep your chosen workflow across modules.
 
-Use normal language with Codex:
+## Useful Requests
 
-- ask for the full outline
-- ask what to do next
-- ask to jump to a module or lesson
-- ask for a summary before stopping
+- “Show me the full course outline.”
+- “Take me to the next lesson.”
+- “Skip to Lesson 3.02.”
+- “Give me a hint.”
+- “Check my work.”
+- “Summarize where I am before I stop.”
 
-## Where To Build
+Modules 1–8 are the foundation. Module 9 offers deeper Codex building. Module 10 supports longer work in Work or Codex. Both extensions are optional.
 
-- Use `practice-workspace/` for guided exercises.
-- Use `playground/` for experiments that are not part of the lesson path.
-- Use the power-user modules to plan before using features that may record, publish, or run on a schedule.
-- Most course work happens in this course folder.
-- Use a separate Codex project when a real skill, prototype, or work task needs its own folder and context.
+## Come Back Later
+
+The tutor saves your position and evidence in `learner-assets/progress.json` when writable files are available. Your output locations stay in the artifact tracker.
+
+For an uploaded course, save the latest progress file before moving to another task. Give the next task access to the course, progress, and relevant sources. Do not assume that chats or local files transferred automatically.
+
+Before stopping, decide whether to keep or pause an active practice schedule. The tutor's recap should make that choice visible.

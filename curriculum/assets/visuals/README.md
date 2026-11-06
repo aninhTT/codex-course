@@ -1,11 +1,11 @@
-# Visuals
+# Diagram Ideas
 
-Use this folder for course diagrams and visual planning notes.
+Use a small diagram when it makes a lesson easier to understand:
 
-Good candidates:
+- Project sources → skill → draft → human review → Page or work file → Site.
+- Skill as the method and schedule as the timing.
+- Company workspace, project, space, Page, and Site compared.
+- What local and cloud runs can access.
+- Source facts checked separately from writing quality.
 
-- the Codex knowledge-work loop
-- course folder tree
-- prompt vs Goal flow
-- document vs skill vs prototype vs Site decision map
-- automation safety ladder
+Explain that arrows in a learning diagram do not create live integrations.
