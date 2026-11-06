@@ -1,5 +1,7 @@
 # Everyday Work with ChatGPT Work and Codex
 
+Last updated: **Friday, November 6, 2026** (11/6/2026).
+
 Build useful work while learning to use an AI agent. Take the course inside **ChatGPT Work or Codex** with a tutor that teaches, demonstrates, and guides one activity at a time.
 
 For most employees who are not engineers, we recommend **ChatGPT Work**. It is built to take action across your information and tools. **Codex supports the full foundation too** and we recommend it for technical work such as GitHub and local app development.

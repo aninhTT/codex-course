@@ -6,6 +6,8 @@ surfaces: [chatgpt-work, codex]
 
 # Welcome! Let's Make Something Useful
 
+Last updated: **Friday, November 6, 2026** (11/6/2026).
+
 This course is a conversation with a tutor and a series of things you will build. You can ask questions, request a hint, or skip something you already know.
 
 Take it in **ChatGPT Work or Codex**. Work is our recommendation for most employees who are not engineers. Codex supports everyday work too and is especially useful for technical tasks. You can stay in either for the entire foundation.

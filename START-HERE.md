@@ -1,5 +1,7 @@
 # Start the Course in Work or Codex
 
+Last updated: **Friday, November 6, 2026** (11/6/2026).
+
 Choose the surface you want to use. Your tutor can teach the entire foundation in either one.
 
 ## In ChatGPT Work

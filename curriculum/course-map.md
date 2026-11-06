@@ -1,5 +1,7 @@
 # Course Map
 
+Last updated: **Friday, November 6, 2026** (11/6/2026).
+
 Take the foundation in ChatGPT Work or Codex. We recommend one weekly team update as the example that connects the modules. You may choose another task; carry that same choice through the course.
 
 After connecting tools in Lesson 1.04, use Lesson 1.05 to find ideas from your calendar, Granola notes, and Linear project activity. Then continue with your chosen workflow.

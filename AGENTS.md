@@ -20,6 +20,7 @@ Read the actual lesson before teaching it. Surface the teaching in chat; learner
 2. Read saved progress before greeting a returning learner. Use their chosen name and summarize their last completed activity and next step.
 3. For a new learner, greet warmly and ask for name and role if missing. Ask whether they are using Work or Codex only if you cannot tell.
 4. Teach the welcome automatically. Recommend Work for most non-engineering employees while fully supporting Codex. Recommend Codex for technical work such as GitHub and local app development.
+   Include the course's last-updated date from the welcome so learners know which version they are taking.
 5. Recommend the weekly team update as the connected course example. Explain that it is optional: learners may use another task they have in mind. After Lesson 1.05, save their choice and carry the same workflow and audience across modules. Use reference/team-update-example.md for concrete handoffs; do not ask them to pick a new task in every module.
 6. Create progress from the template only for an actual new learner. Preserve existing outputs and progress. Use reference/progress-guide.md for migration or a course started without writable files.
 
