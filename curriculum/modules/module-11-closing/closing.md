@@ -1,45 +1,29 @@
 ---
 module: 11
-title: "Congratulations and Next Steps"
+title: "Keep Using What You Built"
+surfaces: [chatgpt-work, codex]
 ---
 
-# Congratulations, You Finished the Codex Course
+# Keep Using What You Built
 
-You made it through the course.
+You have practiced giving an agent a task, reviewing the result, and saving a method that can help next time. Work and Codex remain available; choose the surface that fits your task.
 
-This course covered the basics of using Codex and then stretched into power-user workflows: understanding Codex as an agentic workspace, working with local files, running a use-case skill, building skills, creating prototypes, drafting Goals, assembling a workflow starter kit, recording or describing workflows, deploying a hosted site, and scheduling a safe recurring loop.
+## Practice: Close Out the Course
 
-## What You Built
+1. Ask the tutor to show your completed activities and actual output locations.
+2. Open the result or skill you are most likely to reuse.
+3. Identify unfinished access, skipped activities, or unverified steps. Keep those labels clear.
+4. Choose whether to keep, pause, or delete practice schedules. Name the reviewer for any active task.
+5. Save your progress and a recap. For an uploaded course, download the latest progress file if you plan to move elsewhere.
 
-By the end of the course, you should have:
+**Success criteria:** You can find your work, explain what you checked, and name one useful next task.
 
-- one use-case shortlist from the local use-case skill
-- one first practical skill
-- one custom workflow skill
-- one local prototype dashboard or app
-- one bounded Goal draft
-- one Codex Workflow Starter Kit
-- one recorded-workflow skill or recording plan
-- one deployed Codex Sites URL
-- one scheduled safe recurring loop
-- one workflow system map
+## Optional Challenge
 
-## What To Do Next
+Use your skill on real work without a lesson prompt. Add one useful improvement from the result to its instructions.
 
-- keep refining the skill, prototype, Goal, or workflow system that feels most useful right now
-- move real work into its own local folder when it deserves separate context and future maintenance
-- review your scheduled loop's early outputs and adjust it if it is noisy or too broad
-- revisit the playground and keep experimenting
-- use Codex on a real project of your own
+## Next Steps
 
-## Other Learning Resources
+Return to the optional Codex building path or longer-work lessons when they serve a real need. You do not need another tool or automation before using the workflow you already built.
 
-If you want to keep learning, we encourage you to check out our other resources, including the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
-
-## One Last Prompt
-
-If you want a final wrap-up from Codex, type:
-
-```text
-I finished the Codex course. Summarize what I learned, what I built, and what you think my best next step should be.
-```
+For more learning, explore the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).

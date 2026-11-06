@@ -1,0 +1,322 @@
+[
+  {
+    "module": 1,
+    "title": "Get Started in Work or Codex",
+    "path": "curriculum/modules/module-01-start-here/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "1.01",
+        "title": "Choose Work or Codex and try your first task",
+        "path": "curriculum/modules/module-01-start-here/lessons/01-choose-how-to-work.md"
+      },
+      {
+        "number": "1.02",
+        "title": "Make the assistant easier to work with",
+        "path": "curriculum/modules/module-01-start-here/lessons/02-set-preferences.md"
+      },
+      {
+        "number": "1.03",
+        "title": "Find the sources and ask a better question",
+        "path": "curriculum/modules/module-01-start-here/lessons/03-inspect-first.md"
+      },
+      {
+        "number": "1.04",
+        "title": "Connect your everyday tools",
+        "path": "curriculum/modules/module-01-start-here/lessons/04-connect-your-tools.md"
+      },
+      {
+        "number": "1.05",
+        "title": "Find AI ideas from your actual week",
+        "path": "curriculum/modules/module-01-start-here/lessons/05-find-ideas-from-your-week.md"
+      }
+    ]
+  },
+  {
+    "module": 2,
+    "title": "Give Your Workflow a Home",
+    "path": "curriculum/modules/module-02-projects-and-first-update/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "2.01",
+        "title": "Give your work a project",
+        "path": "curriculum/modules/module-02-projects-and-first-update/lessons/01-choose-a-project.md"
+      },
+      {
+        "number": "2.02",
+        "title": "Give the assistant a short work briefing",
+        "path": "curriculum/modules/module-02-projects-and-first-update/lessons/02-add-sources-and-rules.md"
+      },
+      {
+        "number": "2.03",
+        "title": "Create your first useful update",
+        "path": "curriculum/modules/module-02-projects-and-first-update/lessons/03-draft-the-update.md"
+      },
+      {
+        "number": "2.04",
+        "title": "Review it like someone who needs to act",
+        "path": "curriculum/modules/module-02-projects-and-first-update/lessons/04-review-and-revise.md"
+      },
+      {
+        "number": "2.05",
+        "title": "Find your work and try a task on your own",
+        "path": "curriculum/modules/module-02-projects-and-first-update/lessons/05-find-and-resume.md"
+      }
+    ]
+  },
+  {
+    "module": 3,
+    "title": "Use Clean Draft, Then Build Your First Skill",
+    "path": "curriculum/modules/module-03-skills/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "3.01",
+        "title": "Discover the skills you already have",
+        "path": "curriculum/modules/module-03-skills/lessons/01-understand-a-skill.md"
+      },
+      {
+        "number": "3.02",
+        "title": "Find and download Clean Draft",
+        "path": "curriculum/modules/module-03-skills/lessons/02-download-clean-draft.md"
+      },
+      {
+        "number": "3.03",
+        "title": "Study Clean Draft, then run it on real writing",
+        "path": "curriculum/modules/module-03-skills/lessons/03-study-and-run-clean-draft.md"
+      },
+      {
+        "number": "3.04",
+        "title": "Meet Skill Creator",
+        "path": "curriculum/modules/module-03-skills/lessons/04-meet-skill-creator.md"
+      },
+      {
+        "number": "3.05",
+        "title": "Build your first workflow skill",
+        "path": "curriculum/modules/module-03-skills/lessons/05-build-your-first-skill.md"
+      },
+      {
+        "number": "3.06",
+        "title": "Test your skill and combine useful methods",
+        "path": "curriculum/modules/module-03-skills/lessons/06-build-test-refine.md"
+      }
+    ]
+  },
+  {
+    "module": 4,
+    "title": "Record a Workflow and Reuse It",
+    "path": "curriculum/modules/module-04-record-a-workflow/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "4.01",
+        "title": "Choose a workflow worth showing",
+        "path": "curriculum/modules/module-04-record-a-workflow/lessons/01-choose-a-demonstration.md"
+      },
+      {
+        "number": "4.02",
+        "title": "Record the task and inspect the skill",
+        "path": "curriculum/modules/module-04-record-a-workflow/lessons/02-prepare-and-record.md"
+      },
+      {
+        "number": "4.03",
+        "title": "Replay it with a different input",
+        "path": "curriculum/modules/module-04-record-a-workflow/lessons/03-review-and-replay.md"
+      },
+      {
+        "number": "4.04",
+        "title": "Connect the captured step to your workflow",
+        "path": "curriculum/modules/module-04-record-a-workflow/lessons/04-connect-the-capture-step.md"
+      }
+    ]
+  },
+  {
+    "module": 5,
+    "title": "Put a Useful Skill on a Schedule",
+    "path": "curriculum/modules/module-05-scheduled-tasks/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "5.01",
+        "title": "Choose what to repeat and when",
+        "path": "curriculum/modules/module-05-scheduled-tasks/lessons/01-method-and-timing.md"
+      },
+      {
+        "number": "5.02",
+        "title": "Make sure the task has what it needs",
+        "path": "curriculum/modules/module-05-scheduled-tasks/lessons/02-check-run-access.md"
+      },
+      {
+        "number": "5.03",
+        "title": "Write the request you will schedule",
+        "path": "curriculum/modules/module-05-scheduled-tasks/lessons/03-write-a-run-card.md"
+      },
+      {
+        "number": "5.04",
+        "title": "Test the request and create the schedule",
+        "path": "curriculum/modules/module-05-scheduled-tasks/lessons/04-test-and-schedule.md"
+      },
+      {
+        "number": "5.05",
+        "title": "Review a run and know how to pause it",
+        "path": "curriculum/modules/module-05-scheduled-tasks/lessons/05-review-and-maintain.md"
+      }
+    ]
+  },
+  {
+    "module": 6,
+    "title": "Create and Improve Work in Space",
+    "path": "curriculum/modules/module-06-space-and-pages/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "6.01",
+        "title": "Choose where the finished work belongs",
+        "path": "curriculum/modules/module-06-space-and-pages/lessons/01-project-space-page.md"
+      },
+      {
+        "number": "6.02",
+        "title": "Create a Page and find it again",
+        "path": "curriculum/modules/module-06-space-and-pages/lessons/02-create-a-page.md"
+      },
+      {
+        "number": "6.03",
+        "title": "Edit together and choose a sharing role",
+        "path": "curriculum/modules/module-06-space-and-pages/lessons/03-edit-and-collaborate.md"
+      },
+      {
+        "number": "6.04",
+        "title": "Move a new draft into the reviewed Page",
+        "path": "curriculum/modules/module-06-space-and-pages/lessons/04-connect-the-schedule.md"
+      }
+    ]
+  },
+  {
+    "module": 7,
+    "title": "Create Work Your Audience Can Use",
+    "path": "curriculum/modules/module-07-documents-slides-and-spreadsheets/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "7.01",
+        "title": "Make a document for a real reader",
+        "path": "curriculum/modules/module-07-documents-slides-and-spreadsheets/lessons/01-create-a-document.md"
+      },
+      {
+        "number": "7.02",
+        "title": "Turn a message into a small presentation",
+        "path": "curriculum/modules/module-07-documents-slides-and-spreadsheets/lessons/02-create-a-small-deck.md"
+      },
+      {
+        "number": "7.03",
+        "title": "Build a spreadsheet you can check",
+        "path": "curriculum/modules/module-07-documents-slides-and-spreadsheets/lessons/03-create-a-spreadsheet.md"
+      },
+      {
+        "number": "7.04",
+        "title": "Choose one output to keep using",
+        "path": "curriculum/modules/module-07-documents-slides-and-spreadsheets/lessons/04-choose-the-right-format.md"
+      }
+    ]
+  },
+  {
+    "module": 8,
+    "title": "Build a Useful Team Site",
+    "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/MODULE.md",
+    "track": "foundation",
+    "lessons": [
+      {
+        "number": "8.01",
+        "title": "Choose a team hub worth building",
+        "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/lessons/01-choose-a-small-site.md"
+      },
+      {
+        "number": "8.02",
+        "title": "Build the Site and improve one thing",
+        "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/lessons/02-build-and-review.md"
+      },
+      {
+        "number": "8.03",
+        "title": "Choose who can visit and edit",
+        "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/lessons/03-choose-access.md"
+      },
+      {
+        "number": "8.04",
+        "title": "Deploy the reviewed version and check it",
+        "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/lessons/04-deploy-and-check.md"
+      },
+      {
+        "number": "8.05",
+        "title": "Finish the foundation with a workflow you can reuse",
+        "path": "curriculum/modules/module-08-sites-and-foundation-checkpoint/lessons/05-foundation-workflow-map.md"
+      }
+    ]
+  },
+  {
+    "module": 9,
+    "title": "Build Further with Codex",
+    "path": "curriculum/modules/module-09-local-prototype-extension/MODULE.md",
+    "track": "extension",
+    "lessons": [
+      {
+        "number": "9.01",
+        "title": "Choose a small local tool to build in Codex",
+        "path": "curriculum/modules/module-09-local-prototype-extension/lessons/01-choose-local-prototype.md"
+      },
+      {
+        "number": "9.02",
+        "title": "Explore the starter app files",
+        "path": "curriculum/modules/module-09-local-prototype-extension/lessons/02-tour-starter-app.md"
+      },
+      {
+        "number": "9.03",
+        "title": "Plan a build before changing files",
+        "path": "curriculum/modules/module-09-local-prototype-extension/lessons/03-plan-before-building.md"
+      },
+      {
+        "number": "9.04",
+        "title": "Build, preview, and inspect the changes",
+        "path": "curriculum/modules/module-09-local-prototype-extension/lessons/04-build-preview-review.md"
+      },
+      {
+        "number": "9.05",
+        "title": "Inspect GitHub and choose a handoff",
+        "path": "curriculum/modules/module-09-local-prototype-extension/lessons/05-github-and-handoff.md"
+      }
+    ]
+  },
+  {
+    "module": 10,
+    "title": "Guide Longer Work in Work or Codex",
+    "path": "curriculum/modules/module-10-longer-work-and-system-map/MODULE.md",
+    "track": "longer-work",
+    "lessons": [
+      {
+        "number": "10.01",
+        "title": "Choose a normal task or a longer Goal",
+        "path": "curriculum/modules/module-10-longer-work-and-system-map/lessons/01-prompt-or-goal.md"
+      },
+      {
+        "number": "10.02",
+        "title": "Write a Goal you can verify",
+        "path": "curriculum/modules/module-10-longer-work-and-system-map/lessons/02-define-done.md"
+      },
+      {
+        "number": "10.03",
+        "title": "Review the Goal and decide whether to run it",
+        "path": "curriculum/modules/module-10-longer-work-and-system-map/lessons/03-review-and-start-optionally.md"
+      },
+      {
+        "number": "10.04",
+        "title": "Steer the work and review the evidence",
+        "path": "curriculum/modules/module-10-longer-work-and-system-map/lessons/04-steer-and-check.md"
+      },
+      {
+        "number": "10.05",
+        "title": "Keep the useful parts and improve one thing",
+        "path": "curriculum/modules/module-10-longer-work-and-system-map/lessons/05-maintain-your-system.md"
+      }
+    ]
+  }
+]

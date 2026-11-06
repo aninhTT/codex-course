@@ -1,0 +1,410 @@
+{
+  "schema_version": 2,
+  "course_revision": "2026-11-06c",
+  "learner": {
+    "name": null,
+    "role": null,
+    "surface": null
+  },
+  "workflow": {
+    "name": null,
+    "audience": null,
+    "brief_location": null,
+    "sources": [],
+    "recommended_example": "weekly-team-update",
+    "use_recommended_example": null,
+    "opportunity_note_location": null
+  },
+  "current_position": {
+    "lesson": "1.01",
+    "section": "learn"
+  },
+  "last_active": null,
+  "lessons": {
+    "1.01": {
+      "title": "Choose Work or Codex and try your first task",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "1.02": {
+      "title": "Make the assistant easier to work with",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "1.03": {
+      "title": "Find the sources and ask a better question",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "1.04": {
+      "title": "Connect your everyday tools",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "1.05": {
+      "title": "Find AI ideas from your actual week",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "2.01": {
+      "title": "Give your work a project",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "2.02": {
+      "title": "Give the assistant a short work briefing",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "2.03": {
+      "title": "Create your first useful update",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "2.04": {
+      "title": "Review it like someone who needs to act",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "2.05": {
+      "title": "Find your work and try a task on your own",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.01": {
+      "title": "Discover the skills you already have",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.02": {
+      "title": "Find and download Clean Draft",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.03": {
+      "title": "Study Clean Draft, then run it on real writing",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.04": {
+      "title": "Meet Skill Creator",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.05": {
+      "title": "Build your first workflow skill",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "3.06": {
+      "title": "Test your skill and combine useful methods",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "4.01": {
+      "title": "Choose a workflow worth showing",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "4.02": {
+      "title": "Record the task and inspect the skill",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "4.03": {
+      "title": "Replay it with a different input",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "4.04": {
+      "title": "Connect the captured step to your workflow",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "5.01": {
+      "title": "Choose what to repeat and when",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "5.02": {
+      "title": "Make sure the task has what it needs",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "5.03": {
+      "title": "Write the request you will schedule",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "5.04": {
+      "title": "Test the request and create the schedule",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "5.05": {
+      "title": "Review a run and know how to pause it",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "6.01": {
+      "title": "Choose where the finished work belongs",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "6.02": {
+      "title": "Create a Page and find it again",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "6.03": {
+      "title": "Edit together and choose a sharing role",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "6.04": {
+      "title": "Move a new draft into the reviewed Page",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "7.01": {
+      "title": "Make a document for a real reader",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "7.02": {
+      "title": "Turn a message into a small presentation",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "7.03": {
+      "title": "Build a spreadsheet you can check",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "7.04": {
+      "title": "Choose one output to keep using",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "8.01": {
+      "title": "Choose a team hub worth building",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "8.02": {
+      "title": "Build the Site and improve one thing",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "8.03": {
+      "title": "Choose who can visit and edit",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "8.04": {
+      "title": "Deploy the reviewed version and check it",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "8.05": {
+      "title": "Finish the foundation with a workflow you can reuse",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "9.01": {
+      "title": "Choose a small local tool to build in Codex",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "9.02": {
+      "title": "Explore the starter app files",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "9.03": {
+      "title": "Plan a build before changing files",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "9.04": {
+      "title": "Build, preview, and inspect the changes",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "9.05": {
+      "title": "Inspect GitHub and choose a handoff",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "10.01": {
+      "title": "Choose a normal task or a longer Goal",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "10.02": {
+      "title": "Write a Goal you can verify",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "10.03": {
+      "title": "Review the Goal and decide whether to run it",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "10.04": {
+      "title": "Steer the work and review the evidence",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    },
+    "10.05": {
+      "title": "Keep the useful parts and improve one thing",
+      "learn": "not_started",
+      "practice": "not_started",
+      "challenge": "not_started",
+      "evidence": [],
+      "notes": ""
+    }
+  },
+  "active_schedules": []
+}

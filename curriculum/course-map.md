@@ -1,63 +1,45 @@
-# Codex Course Map
+# Course Map
 
-## Module Order
+Take the foundation in ChatGPT Work or Codex. We recommend one weekly team update as the example that connects the modules. You may choose another task; carry that same choice through the course.
 
-0. Welcome to the Codex Course
-1. What Codex Is And How To Set It Up
-2. Projects, Folders, And First File Work
-3. Skills As Repeatable Processes
-4. Prototype A Useful Workflow
-5. Goals And Longer Codex Work
-6. Basics Capstone: Codex Workflow Starter Kit
-7. Record A Workflow Into A Skill
-8. Sites And Hosted Prototypes
-9. Loops, Automations, And Safe Recurrence
-10. Power-User Capstone
-11. Congratulations and Next Steps
+After connecting tools in Lesson 1.04, use Lesson 1.05 to find ideas from your calendar, Granola notes, and Linear project activity. Then continue with your chosen workflow.
 
-## Learning Outcomes
-
-By the end of the course, the learner should be able to:
-
-- explain what Codex is and when to use it
-- customize Codex settings and preferences for a non-technical learning experience
-- understand projects as local folders with context
-- understand what is inside this course folder and where to inspect it
-- inspect before editing and make one small safe file change
-- inspect and run a local example skill
-- create one use-case shortlist
-- build one first practical skill
-- build one custom workflow skill
-- build one local prototype dashboard or app
-- draft one bounded, evidence-based Goal using the official Goal structure
-- assemble one Codex Workflow Starter Kit from a real professional pain point
-- know when a real project deserves its own local folder
-- prepare one recorded workflow skill or recording plan
-- deploy one Codex Sites URL
-- schedule one safe recurring loop
-- map one practical Codex workflow system
-- refine those artifacts for a real workflow
-
-## Course Spine
-
-The course repeats one practical loop:
+See [the team-update example](../reference/team-update-example.md) for the exact inputs and handoffs.
 
 ```mermaid
 flowchart LR
-  A[Connect] --> B[Contextualize]
-  B --> C[Delegate or collaborate]
-  C --> D[Review]
-  D --> E[Compound]
+  A[Choose Work or Codex] --> A2[Connect tools and find ideas]
+  A2 --> B[Project and first team update]
+  B --> C[Use Clean Draft]
+  C --> D[Build the team-update skill]
+  D --> E[Record and replay a task]
+  E --> F[Schedule useful work]
+  F --> G[Review and save a Page]
+  G --> H[Choose useful work files]
+  H --> I[Build a team Site]
 ```
 
-Learners should leave each module with either a small artifact, a clear decision, or a reusable habit.
+The diagram shows the learning sequence, not automatic integrations. You test each handoff.
 
-## Shared Support Files
+| Module | Path |
+| --- | --- |
+| [1. Get Started in Work or Codex](../curriculum/modules/module-01-start-here/MODULE.md) | Shared foundation |
+| [2. Give Your Workflow a Home](../curriculum/modules/module-02-projects-and-first-update/MODULE.md) | Shared foundation |
+| [3. Use Clean Draft, Then Build Your First Skill](../curriculum/modules/module-03-skills/MODULE.md) | Shared foundation |
+| [4. Record a Workflow and Reuse It](../curriculum/modules/module-04-record-a-workflow/MODULE.md) | Shared foundation |
+| [5. Put a Useful Skill on a Schedule](../curriculum/modules/module-05-scheduled-tasks/MODULE.md) | Shared foundation |
+| [6. Create and Improve Work in Space](../curriculum/modules/module-06-space-and-pages/MODULE.md) | Shared foundation |
+| [7. Create Work Your Audience Can Use](../curriculum/modules/module-07-documents-slides-and-spreadsheets/MODULE.md) | Shared foundation |
+| [8. Build a Useful Team Site](../curriculum/modules/module-08-sites-and-foundation-checkpoint/MODULE.md) | Shared foundation |
+| [9. Build Further with Codex](../curriculum/modules/module-09-local-prototype-extension/MODULE.md) | Codex technical path |
+| [10. Guide Longer Work in Work or Codex](../curriculum/modules/module-10-longer-work-and-system-map/MODULE.md) | Work and Codex longer-work path |
 
-- `reference/cheat-sheet.md`
-- `reference/codex-best-practices.md`
-- `reference/glossary.md`
-- `reference/troubleshooting.md`
-- `reference/how-to-use-this-course.md`
-- `learner-assets/artifact-tracker.md`
-- `learner-assets/use-case-shortlist.md`
+## Your Learning Rhythm
+
+Learn a concept, see a concrete example, and make something with the tutor. Optional challenges let you practice independently. Success means a result you can open, use, and verify.
+
+## Choose Your Next Step
+
+After Module 8, take the [closing lesson](modules/module-11-closing/closing.md), choose the Codex building path, or explore longer work in your current surface.
+
+The tutor uses `course-index.json` for current lesson titles and saves your position in `learner-assets/progress.json` when writable files are available.

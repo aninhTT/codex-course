@@ -1,47 +1,41 @@
 ---
 module: 3
-title: "Skills And Repeatable Workflow Automation"
-description: "Understand skills as repeatable processes, inspect and run a local example, then build practical skills from real use-case ideas."
-lessons: 8
+title: "Use Clean Draft, Then Build Your First Skill"
+lessons: 6
+track: foundation
+surfaces: [chatgpt-work, codex]
 ---
 
-# Module 3: Skills As Repeatable Processes
+# Module 3: Use Clean Draft, Then Build Your First Skill
 
-This module is where learners move from one-off prompts into repeatable Codex processes. A skill is not just a custom chatbot. It is a reusable process that can package instructions, references, examples, scripts, and tool use so Codex can do a recurring kind of work more consistently.
+## What You Will Do
 
-## What You'll Learn
+Discover skills, use Clean Draft on real writing, and build a repeatable method with Skill Creator.
 
-- how prompts, repeatable processes, and skills differ
-- where skill learning happens in this course folder
-- how to inspect and run the local `use-case` skill
-- how to turn use-case ideas into a first practical skill
-- how to choose and interview a workflow using several narrowing questions
-- how to build, test, and refine a custom workflow skill
+Recommended example: Use Clean Draft on that update, then build weekly-update-helper and test it with week 2.
+
+You can use another workflow instead. Bring its corresponding result forward rather than starting a new task.
+
+## Choose Your Surface
+
+- **ChatGPT Work:** Ask which skills are available. Use the @ menu to select a skill when supported. The tutor can help with retrieval and setup.
+- **Codex:** Ask which skills are available. Use a $ skill mention when supported, or name the method in your request.
+
+Follow the activities in order, or ask to skip a topic you already know. Optional challenges never block progress.
 
 ## Lessons
 
-| # | Lesson | Est. Time |
-|---|--------|-----------|
-| 01 | Prompts vs Repeatable Workflows vs Skills | 5-10 min |
-| 02 | Where Skill Learning Lives | 5-10 min |
-| 03 | Copy Or Inspect The Use-Case Skill | 5-10 min |
-| 04 | Run The Use-Case Skill | 10-15 min |
-| 05 | Inspect A Skill Before Building | 5-10 min |
-| 06 | Build A First Practical Skill | 10-15 min |
-| 07 | Choose And Interview A Workflow | 10-15 min |
-| 08 | Build, Test, And Refine A Custom Workflow Skill | 10-15 min |
+| Lesson | Allow |
+| --- | --- |
+| [3.01: Discover the skills you already have](lessons/01-understand-a-skill.md) | 5–15 minutes |
+| [3.02: Find and download Clean Draft](lessons/02-download-clean-draft.md) | 5–15 minutes |
+| [3.03: Study Clean Draft, then run it on real writing](lessons/03-study-and-run-clean-draft.md) | 5–15 minutes |
+| [3.04: Meet Skill Creator](lessons/04-meet-skill-creator.md) | 5–15 minutes |
+| [3.05: Build your first workflow skill](lessons/05-build-your-first-skill.md) | 5–15 minutes |
+| [3.06: Test your skill and combine useful methods](lessons/06-build-test-refine.md) | 5–15 minutes |
 
-## Lesson Files
+## At the End
 
-- [01. Prompts vs Repeatable Workflows vs Skills](./lessons/01-prompts-vs-repeatable-workflows-vs-skills.md)
-- [02. Where Skill Learning Lives](./lessons/02-where-skill-learning-lives.md)
-- [03. Copy Or Inspect The Use-Case Skill](./lessons/03-copy-or-inspect-the-use-case-skill.md)
-- [04. Run The Use-Case Skill](./lessons/04-run-the-use-case-skill.md)
-- [05. Inspect A Skill Before Building](./lessons/05-inspect-a-skill-before-building.md)
-- [06. Build A First Practical Skill](./lessons/06-build-a-first-practical-skill.md)
-- [07. Choose And Interview A Workflow](./lessons/07-choose-and-interview-a-workflow.md)
-- [08. Build, Test, And Refine A Custom Workflow Skill](./lessons/08-build-test-and-refine-a-custom-workflow-skill.md)
+Original and cleaned drafts, an inspected example skill, and your own tested skill.
 
-## By The End of This Module
-
-The learner should understand skills as reusable workflow processes, inspect and run the local use-case skill, leave with a practical use-case shortlist, build one first skill from that shortlist, and build one custom workflow skill from a clear workflow interview.
+The tutor checks the actual result and saves your place. Say “Take me to the next lesson,” “Give me a hint,” or “Summarize where I am before I stop.”

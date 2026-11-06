@@ -1,119 +1,66 @@
 ---
 module: 0
-title: "Welcome to the Course"
+title: "Welcome to Everyday Work with Work and Codex"
+surfaces: [chatgpt-work, codex]
 ---
 
-# Welcome to the Codex Course
+# Welcome! Let's Make Something Useful
 
-Welcome. You are about to learn Codex inside Codex itself, which is a pretty fun way to do it.
+This course is a conversation with a tutor and a series of things you will build. You can ask questions, request a hint, or skip something you already know.
 
-This folder you just opened is not just a packet of reading materials. It is the course, the sandbox, and the workspace Codex can inspect with you. That is part of the point: you are learning how Codex works by using it in a real folder from the start instead of only reading about it.
+Take it in **ChatGPT Work or Codex**. Work is our recommendation for most employees who are not engineers. Codex supports everyday work too and is especially useful for technical tasks. You can stay in either for the entire foundation.
 
-This course does **not** cover how to use ChatGPT in the chat interface. That is taught elsewhere, including the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
+## Your First Choice
 
-The simplest mental model: ChatGPT is often something you chat with. Codex is an agentic workspace. It can chat, but it can also inspect files, use connected tools and apps, make changes when you approve them, build artifacts, and help you turn repeated work into reusable systems.
+Tell the tutor your name and role. We recommend a weekly team update as the example you carry through the course.
 
-## What You'll Walk Away With
+You will draft the update, improve it with Clean Draft, create a team-update skill, record a supporting step, and schedule it. Later, the same reviewed update becomes a Page, work files, and a team Site.
 
-By the end of this course, you will:
+You do not have to follow that example. If you have another task in mind, use it instead. After connecting your tools, the tutor will help you find ideas from your actual week. Pick one workflow and keep building on it.
 
-- understand what Codex is good at
-- customize settings so Codex talks to you in a useful way
-- understand Codex projects as local folders with context
-- understand what is inside this course folder and where to inspect it
-- make one small safe file change
-- inspect and run one example skill
-- build one first practical skill
-- build one custom workflow skill
-- build one local prototype dashboard or app
-- draft one bounded Goal for longer evidence-based work
-- assemble one Codex Workflow Starter Kit for a professional pain point
-- prepare one recorded workflow or recording plan
-- deploy one Codex Site URL
-- schedule one safe recurring workflow
-- leave with a shortlist of Codex use cases for your own work
+## What You Will Try
 
-You do not need to already feel technical to get value from this. The course is built to help non-technical learners get comfortable with a coding tool one step at a time.
+1. Make a first draft, connect useful tools, and find AI ideas from your actual week.
+2. Give your workflow a project and a short briefing.
+3. Download and use Clean Draft, then build your own skill with Skill Creator.
+4. Record a computer task and reuse its method.
+5. Schedule a tested skill weekly or monthly.
+6. Save and improve a Page in Space.
+7. Create the document, slides, or spreadsheet your audience needs.
+8. Build a small team Site and map your workflow.
 
-## High-Level Course Overview
+Skills come early because they save how you want the work done. Recording is another way to capture a method. Scheduling makes a tested method repeat.
 
-Here is the course arc at a glance:
+## How the Tutor Helps
 
-- **Module 0: Welcome** — get oriented, understand how the course works, and learn how to move through it.
-- **Module 1: What Codex Is and How To Set It Up** — tune settings, learn what Codex can do as an agent, compare it with chat-only tools, and try a first read-only task.
-- **Module 2: Projects, Folders, and First File Work** — learn how projects work as local folders, choose the right context, and make a first safe file edit.
-- **Module 3: Skills as Repeatable Processes** — learn skills as reusable processes, run a real local use-case skill, and build practical skills from its output.
-- **Module 4: Prototype a Useful Workflow** — choose a pain-point prototype, tour the starter app, use Plan mode, and build a small prototype.
-- **Module 5: Goals and Longer Codex Work** — learn when longer work deserves a Goal and how to draft one with evidence, constraints, and blocked conditions.
-- **Module 6: Basics Capstone: Codex Workflow Starter Kit** — bring the basics together for one professional pain point.
-- **Module 7: Record a Workflow Into a Skill** — learn when showing Codex a workflow is better than describing it, and how to refine the resulting skill.
-- **Module 8: Sites and Hosted Prototypes** — review, save, and intentionally deploy a Codex Site.
-- **Module 9: Loops, Automations, and Safe Recurrence** — design, test, and schedule one safe recurring loop.
-- **Module 10: Power-User Capstone** — map your skills, prototype, recording plan, and automation design into one practical workflow system.
-- **Module 11: Closing** — wrap up, celebrate what you built, and find the next learning resources to keep going.
+First, learn a concept through a short example. Then build something with guidance one step at a time. The tutor checks the result before marking the activity complete.
 
-## Core Agreements
+Optional challenges let you try independently. Ask for a hint when needed. You can skip the challenge and keep moving.
 
-### 1. Use AI to Ask AI
+Your progress saves with the course files. If you uploaded the course, ask for the latest progress file when stopping or moving to a new task.
 
-If you are stuck, ask Codex. That is part of the course, not a sign that you are doing it wrong.
+## Our Agreements
 
-### 2. Progress Over Perfection
+- Use AI to ask AI. Questions and requests for examples are part of learning.
+- Start with a useful version. Improve it after you see what works.
+- Treat corrections as part of the process. A first result does not need to be perfect.
+- Own the outcome. Check facts, audience, and the requested action before sharing.
 
-You do not need the perfect prompt on the first try. A useful draft is enough to keep moving, and you can always refine it.
+## AI Expectations
 
-### 3. Treat Speed Bumps as Learning
+Use the current [AI Expectations](https://thumbtack.haystack.so/resources/c8602dcc-0898-4f92-ae93-243ee7d696ba) throughout the course. You remain responsible for the quality and impact of work you use or share.
 
-Unexpected output, confusion, and course corrections are normal. They are not signs that you are bad at this. They are part of learning how to work with Codex.
+## Two Ways to Go Further
 
-### 4. Review Before You Trust
+The foundation works in both surfaces. After Module 8, you can finish or explore:
 
-Codex can help with real edits in this workspace. You still decide what to accept.
+- **Build Further with Codex:** local app files, prototypes, change review, and GitHub inspection.
+- **Guide Longer Work in Work or Codex:** Goal drafts, evidence of completion, and steering a longer task.
 
-## Operating Guardrails
+## Navigate in Plain Language
 
-These still apply while you use Codex:
+Try “Show me the full course outline,” “Take me to the next lesson,” “Skip to Lesson 3.02,” or “Give me a hint.”
 
-- **AI Operating Guardrails:** https://docs.google.com/document/d/1eKbp89j9o7qJX4WKb1Ph-RFIMjir6dvQ1Isacibeocc/edit?tab=t.0
-- **AI Expectations:** https://docs.google.com/document/d/1zxApnzVuSZPmT2bDL21Ay4xGhZNo_uLOenh916eVatk/preview?tab=t.0#heading=h.kqfz6q915209
+Before stopping, say “Summarize where I am before I stop.” You can ask questions anytime and still keep moving.
 
-## How This Course Works
-
-- Most lessons take about 5 to 10 minutes.
-- Each lesson has a short **Learn** section and one guided **Practice** section.
-- Lessons now end by naming what you made or decided, then previewing what is on deck.
-- The course is designed to be taken in order the first time.
-- Codex may read or edit files in this workspace during exercises.
-- The guided lesson work happens mainly in `practice-workspace/`.
-- Most course work stays inside this course folder. If you later build something real enough to deserve its own home, that can move into a separate local folder/project.
-- This course is about Codex specifically. For ChatGPT chat usage, use the [30 Days of AI series](https://thumbtack.haystack.so/resources/0041286c-fdad-442a-b4db-dfd57e08ae53).
-
-## Ask Questions As You Go
-
-You do not need to stay silent and just march through the lessons. If something feels fuzzy, ask Codex to explain it in plainer language, show another example, or remind you why the step matters. Then keep going.
-
-That is not getting off track. That is using Codex well.
-
-## Where To Look
-
-- Course overview: `README.md`
-- Reference docs: `reference/`
-- Guided build sandbox: `practice-workspace/`
-- Learner checklist: `learner-assets/artifact-tracker.md`
-- Visual and screenshot support: `curriculum/assets/`
-
-## Moving Through the Course
-
-If you want to move around the course more quickly, use plain-language prompts with Codex:
-
-- "Show me the full course outline."
-- "Take me to the next lesson."
-- "Skip to Lesson 3.02."
-- "Help me navigate the course."
-- "Summarize where I am before I stop."
-
-Do not use slash commands here. In Codex, slash-prefixed inputs may trigger native app commands instead of the course flow.
-
-## Ready?
-
-Start with [Module 1: Start Here in Codex](../module-01-start-here/MODULE.md).
+Continue to [Module 1](../module-01-start-here/MODULE.md). Your first optional demo is a tour of Work and Codex.

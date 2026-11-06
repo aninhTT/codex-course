@@ -1,0 +1,32 @@
+{
+  "source": "https://github.com/thumbtack/shared-skills/tree/main/users/tsalman/clean-draft",
+  "retrieved": "2026-11-06",
+  "version": "1.1.0",
+  "modified": false,
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "f754ebbdad026d84d5abe00e870ccaf2c234da4e1625c18224159e0fb2dcd675",
+      "git_blob_sha": "840eb051d1c86d04f928c10eb1cd1ed8244c5f7a",
+      "source": "https://github.com/thumbtack/shared-skills/blob/main/users/tsalman/clean-draft/README.md"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "2e022997a2fab642713bc9459687c37a63a446e6503ad6c91517072d45c05741",
+      "git_blob_sha": "a6f72a0e94a46e2d958988f2334790420a361555",
+      "source": "https://github.com/thumbtack/shared-skills/blob/main/users/tsalman/clean-draft/SKILL.md"
+    },
+    {
+      "path": "VERSION",
+      "sha256": "1575e1af4a95f12f70b4ee6a6adce8160953d93ea17dc2611b90883ccc3ad3b8",
+      "git_blob_sha": "9084fa2f716a7117829f3f32a5f4cef400e02903",
+      "source": "https://github.com/thumbtack/shared-skills/blob/main/users/tsalman/clean-draft/VERSION"
+    },
+    {
+      "path": "scripts/prose_check.py",
+      "sha256": "d5f3e9df34c7b32fd7cb2d52c57764ccdf3a7d1fbc961da779dcd867eb41c027",
+      "git_blob_sha": "93f97ea171a066dfa66d04b560d03fed8eba6918",
+      "source": "https://github.com/thumbtack/shared-skills/blob/main/users/tsalman/clean-draft/scripts/prose_check.py"
+    }
+  ]
+}

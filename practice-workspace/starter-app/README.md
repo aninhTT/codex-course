@@ -1,17 +1,11 @@
-# Starter App Guide
+# Local Starter App
 
-This is the local prototype learners modify in Module 4.
+Use this app in optional Module 9. Copy it to your chosen practice folder before changing it.
 
-## Files
+- `index.html` supplies structure and content.
+- `css/app.css` controls appearance.
+- `js/app.js` supplies sample content and behavior.
 
-- `index.html`: page structure
-- `css/app.css`: visual style
-- `js/app.js`: sample content rendered into the page
+Open index.html in a browser for a simple preview. Ask the tutor for another local preview method if needed. Use sample data and review the actual page after changes.
 
-## Simplest Preview
-
-For this course, the easiest preview is to open `index.html` directly in a browser. If the learner prefers, they can also ask Codex for a lightweight local preview workflow.
-
-## Personalization Goal
-
-By the end of Module 4, the learner should adapt this starter or their own idea into a small dashboard or app for one real workflow pain point.
+You can finish the foundation with a prompt-built Site without doing this local app exercise.

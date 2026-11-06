@@ -1,77 +1,41 @@
-# Codex Course Glossary
+# Course Glossary
 
-## Codex
-
-An agentic workspace that can chat, inspect files, use tools and connected apps when allowed, edit or create artifacts with your approval, and keep working toward a reviewable result.
-
-## Workspace
-
-The folder Codex is currently looking at. It shapes what Codex can inspect and edit.
-
-## Project
-
-A Codex project is the folder and context Codex is working inside. You can use Codex without a project for some conversations, but file work, skills, prototypes, and Goals usually need the right project context.
-
-## Prompt
-
-The instruction you give Codex. Better prompts are specific about goal, context, and output.
-
-## Skill
-
-A reusable process Codex can follow. A skill can include instructions, references, examples, and sometimes scripts or tool steps for a focused kind of work.
-
-## Automation
-
-A recurring Codex task that runs on a schedule.
-
-## Thread Automation
-
-A recurring Codex wake-up attached to the current conversation. Use it when the same thread context matters.
-
-## Standalone Automation
-
-A recurring Codex task where each run starts independently and reports findings separately.
-
-## Goal Mode
-
-A Codex feature for longer tasks where Codex keeps a persistent objective attached to the current thread. A good Goal defines the desired outcome, verification evidence, constraints, allowed boundaries, iteration policy, and what should happen if Codex gets blocked.
-
-## Project Switch
-
-Moving from one Codex project or folder to another. Most course work happens in this course folder; a real work artifact can move into its own local folder when it needs separate context.
-
-## Artifact
-
-Something the learner creates during the course, such as a skill or a prototype app.
-
-## Record & Replay
-
-A Codex feature for demonstrating a workflow on your computer so Codex can turn the pattern into a reusable skill. If it is unavailable, a detailed written walkthrough can teach the same workflow-capture habit.
-
-## Sites
-
-A Codex hosting workflow for creating, saving, deploying, and inspecting websites, apps, and games. In this course, review comes first and Module 8 ends with an intentionally deployed Codex Sites URL.
-
-## Saved Version
-
-A reviewable hosted-site candidate. It is different from deploying a production URL.
-
-## Automation Design Card
-
-A planning artifact for a recurring workflow. It should include the trigger or cadence, loop type, durable prompt, evidence source, expected output, stop condition, risk check, and review plan.
-
-## Workflow System Map
-
-A simple map showing how a skill, recorded workflow, prototype or Sites plan, automation design, and Goal idea fit together for one real workflow.
-
-## Codex Workflow Starter Kit
-
-The Module 6 capstone artifact. It gathers one professional pain point, workflow summary, prompt or skill candidate, prototype idea, Goal draft, review checklist, and next-step map.
-
-## Practice Workspace
-
-The guided sandbox used for early course exercises.
-
-## Playground
-
-A free experimentation area for trying ideas without affecting the guided lesson flow.
+| Term | Plain meaning |
+| --- | --- |
+| Agent | AI that uses tools to complete work you can review. |
+| Chat | A conversation for questions, ideas, and short drafts. |
+| ChatGPT Work | A way to delegate work that should end in a result you can use. |
+| Codex | A work surface with developer views and more technical detail. It also handles everyday work. |
+| Company workspace | Your organization's account environment, members, settings, and available features. |
+| Project | A home for related chats, instructions, files, and sources. |
+| Local project | A project with access to selected folders on your computer. |
+| Source | Information used to do the work, such as notes or a spreadsheet. |
+| Output or deliverable | The result, such as an update, document, or deck. |
+| Prompt | Your request to the assistant. |
+| Personal instructions | Preferences you want the assistant to follow across chats. |
+| Project instructions | Rules for work in one project. |
+| Memory | Saved context that can help future chats, when enabled. |
+| Plugin | An installable bundle of capabilities or connected tools. |
+| Skill | A saved method for a recurring kind of work, with instructions and optional supporting files. |
+| Clean Draft | The example skill that improves structure and wording while preserving source facts. |
+| Readability checker or lint | A tool that flags wording to review. It does not verify facts. |
+| Record & Replay | A desktop feature that turns a demonstrated workflow into a skill. |
+| Walkthrough | A written or narrated description of the steps someone should follow. |
+| Scheduled task | Work set to run at a chosen time. Skills can supply its method. |
+| Run card | A short record of the schedule, method, sources, output, owner, and review plan. |
+| Local run | Work that uses your computer's files and tools. |
+| Cloud run | Work in a hosted environment with its own available sources and tools. |
+| ChatGPT Space | A home for Pages, slides, files, and shared work. |
+| Space | A group of related Pages, often organized around a team or topic. |
+| Page | A document you and ChatGPT can edit together. |
+| Site | A hosted website or app built with ChatGPT or Codex. |
+| Saved Site version | A candidate you preserve for review without deploying it. |
+| Deployment | A live production version at a URL, with its chosen audience settings. |
+| Visitor | Someone allowed to open a Site. |
+| Editor | Someone allowed to change shared content. |
+| Prototype | A small working version used to test an idea. |
+| Goal mode | A persistent objective for longer work with a checkable finish line. |
+| Verification | Evidence that the result meets the request. |
+| Handoff note | A recap of purpose, sources, decisions, outputs, and next step for continuing elsewhere. |
+| Workflow map | A simple record of how inputs, methods, review, and outputs fit together. |
+| Fallback | An alternative activity when a feature is unavailable, with unfinished steps recorded. |

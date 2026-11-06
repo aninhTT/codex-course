@@ -1,11 +1,5 @@
 # Playground
 
-This folder is a free sandbox for experimentation outside the guided course path.
+Use this folder for side experiments or a copy of the local app in optional Module 9. Keep the foundation's guided sources in `practice-workspace/weekly-update/`.
 
-Use it when you want to:
-
-- try a prompt that is not part of a lesson
-- sketch a new workflow idea
-- test a small prototype idea before folding it into your real work
-
-If you are following the course for the first time, keep your official lesson work in `practice-workspace/` and use this folder for side experiments only.
+Check the folder before making changes. Give real work its own project when it needs separate sources, access, or maintenance.

@@ -1,49 +1,34 @@
-# Use-Case Shortlist
+# Optional Workflow Shortlist
 
-Complete this during Modules 3 and 4, then revisit it in Modules 5 and 6.
+The foundation uses a weekly team update. Use this worksheet if you want a different task or another idea after the course.
 
-Use voice dictation if it helps you move faster. You can talk through messy context first and let Codex help organize it.
+## Three Possible Tasks
 
-## Pain Point 1
+For each idea, describe:
 
-- What feels repetitive or slow?
-- What files, notes, or inputs are involved?
-- Who uses the output?
-- How would I check whether Codex did it well?
-- Could this become a prompt, skill, prototype, Goal, or automation later?
+- What repeats or takes too much time?
+- Who uses the result?
+- What sources and tools does it need?
+- What would a useful result look like?
+- How would you check the facts and quality?
+- What should stay manual?
 
-## Pain Point 2
+## Choose One
 
-- What feels repetitive or slow?
-- What files, notes, or inputs are involved?
-- Who uses the output?
-- How would I check whether Codex did it well?
-- Could this become a prompt, skill, prototype, Goal, or automation later?
+- My chosen task:
+- Small first result:
+- Sources and access:
+- Skill that could save the method:
+- Step that may be easier to show:
+- Whether it needs a schedule:
+- Best output: update, Page, document, slides, spreadsheet, or Site:
+- Review owner:
 
-## Pain Point 3
+## Optional Longer Task
 
-- What feels repetitive or slow?
-- What files, notes, or inputs are involved?
-- Who uses the output?
-- How would I check whether Codex did it well?
-- Could this become a prompt, skill, prototype, Goal, or automation later?
+After Module 10, record a Goal candidate only if it has a clear finish line:
 
-## My Picks
-
-- Best one-off prompt:
-- Best candidate for my first practical skill:
-- Best candidate for a custom workflow skill:
-- Best candidate for a prototype app:
-- Best candidate to keep manual for now:
-
-## Goal Mode Candidate
-
-Use this after Module 5 introduces Goal mode.
-
-- Which use case is long-running enough for a Goal?
-- What desired end state would be true when it is done?
-- What evidence would prove completion?
-- What constraints should Codex preserve?
-- What files, folders, tools, or sources should Codex use?
-- How should Codex choose the next best action between attempts?
-- What should Codex report if it gets blocked?
+- Desired result:
+- Constraints and allowed sources:
+- Evidence for completion:
+- What to report if progress is blocked:

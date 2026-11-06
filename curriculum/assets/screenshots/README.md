@@ -1,13 +1,15 @@
-# Screenshot Slots
+# Screenshot Review List
 
-Add final screenshots here as the course UI is captured.
+Capture these in the intended learner workspace before adding them to lessons:
 
-Planned screenshots:
+- Chat, Work, and Codex selection.
+- Project sources and instructions, compared with a local folder project.
+- Marketplace and GitHub download for Clean Draft.
+- Skill selection and the original-versus-cleaned update.
+- Record a skill and the stop-recording control.
+- Scheduled task settings, runs, and pause control.
+- Page editing and sharing roles.
+- Document, slide, and spreadsheet review.
+- Saved Site version, deployment, and audience settings.
 
-- `codex-settings-personalization.png` - Codex settings for tone, personality, and custom instructions
-- `codex-non-technical-audience.png` - non-technical/audience preference if available in the current app UI
-- `voice-dictation-entrypoint.png` - where learners can use voice dictation
-- `plan-mode-shift-tab.png` - how to enter Plan mode with Shift+Tab
-- `course-folder-navigation.png` - how this course folder looks in a file browser
-
-If the app UI changes, update the filenames or screenshot notes and then update the lesson references.
+Use sample data. Check device and company availability. Lessons teach the actions in words and do not require these images.
